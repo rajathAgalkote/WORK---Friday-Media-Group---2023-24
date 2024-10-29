@@ -1,0 +1,215 @@
+,index,user_id,type_name,ads_count,frequency_in_months,username,email,phone
+0,0,5750,Motorhomes,37,0.2702702702702703,wilkinsmotorcaravans,sales@wilkinsmotorcaravans.co.uk,01285 821216
+1,37,69356,Static Caravans,363,0.0743801652892562,lloydscaravans,enquiries@lloydscaravans.co.uk,01745 832050
+2,400,93066,Static Caravans,5,7.0,smytham,info@smytham.co.uk,01805 622110
+3,405,112118,Motorhomes,30,0.4666666666666667,pearmanbriggs,pearmanbriggs@gmail.com,01531 822666
+4,435,112143,Touring Caravans,81,0.2345679012345679,pearmanbriggsglouces,sales@pearmanbriggs.co.uk,01531 822666
+5,516,132301,Campervans,19,0.30158730158730157,sales123456,sales@highlandcampervans.com,01667 493976
+6,579,132301,Motorhomes,44,0.30158730158730157,sales123456,sales@highlandcampervans.com,01667 493976
+7,642,158551,Motorhomes,69,0.676056338028169,wellsbridgemotorhom,info@wellsbridgemotorhomes.com,01487815511
+8,713,158596,Touring Caravans,25,0.3076923076923077,southeastcaravans,sales@southeastcaravans.co.uk,01227 772373
+9,739,158740,Motorhomes,21,0.6363636363636364,tomrylie,tomrylie@aol.com,01233 712021
+10,761,158760,Touring Caravans,35,0.8,tamworthcaravans,tamworthcaravans@tiscali.co.uk,01827 262666
+11,796,158778,Motorhomes,8,0.36,blackwoodleisur,blackwoodleisure@tiscali.co.uk,01283 819620
+12,846,158778,Touring Caravans,42,0.36,blackwoodleisur,blackwoodleisure@tiscali.co.uk,01283 819620
+13,896,158795,Motorhomes,335,0.028075970272502065,highbridgecaravans,info@highbridgecaravans.co.uk,01278 782725
+14,2107,158795,Touring Caravans,876,0.028075970272502065,highbridgecaravans,info@highbridgecaravans.co.uk,01278 782725
+15,3318,158798,Campervans,70,0.17142857142857143,caravansforsale2,caravansforsale@southdownsmotorcaravans.co.uk,02392 674820
+16,3633,158798,Motorhomes,245,0.17142857142857143,caravansforsale2,caravansforsale@southdownsmotorcaravans.co.uk,02392 674820
+17,3948,158803,Motorhomes,376,0.05319148936170213,teamchelston,mike.davis@teamchelston.co.uk,01823 662075
+18,4324,158808,Motorhomes,9,0.23684210526315788,catherine4,info@bmvcaravans.co.uk,01747 851497
+19,4400,158808,Touring Caravans,67,0.23684210526315788,catherine4,info@bmvcaravans.co.uk,01747 851497
+20,4476,158814,Touring Caravans,60,0.3,canterburycaravans,sales@canterburycaravans.co.uk,01227 712 777
+21,4479,158814,Touring Caravans,60,0.3,canterburycaravans,sales@canterburycaravans.co.uk,01227 712777
+22,4536,158819,Motorhomes,6,0.9,oxfordcaravans,sales@oxfordcaravans.com,01844 339566
+23,4546,158819,Touring Caravans,4,0.9,oxfordcaravans,sales@oxfordcaravans.com,01844 339566
+24,4556,158831,Motorhomes,91,0.24175824175824176,jcleisure,sales@jcleisure.co.uk,01797 227337
+25,4647,158838,Static Caravans,24,2.230769230769231,roundstonecaravans,sales@roundstonecaravans.com,01403 730218
+26,4673,158845,Touring Caravans,149,0.12751677852348994,wandahome,sales@wandahome.co.uk,01977 633100
+27,4822,158875,Motorhomes,135,0.1079136690647482,stewartmouland,generalsales@stewartmouland.co.uk,01273 587229
+28,4823,158875,Motorhomes,135,0.1079136690647482,stewartmouland,,01273 587229
+29,4961,158911,Static Caravans,4,0.5555555555555556,ennis-caravans,shaun.ennis@ennis-caravans.co.uk,01269 832 381
+30,4997,158911,Touring Caravans,30,0.5555555555555556,ennis-caravans,shaun.ennis@ennis-caravans.co.uk,01269 832 381
+31,5033,158926,Motorhomes,240,0.08333333333333333,tynevalleymotorhome,sales@tynevalleymotorhomes.co.uk,01207 272777
+32,5273,158927,Motorhomes,77,0.5512820512820513,premiermotorhomes,sales@premiermotorhomes.uk,01243 511189
+33,5283,158927,Motorhomes,77,0.5512820512820513,premiermotorhomes,sales@premiermotorhomes.com,01243 511189
+34,5351,158943,Campervans,28,0.10526315789473684,pullingerssales,pullingerssales@aol.com,01787336887
+35,5484,158943,Motorhomes,105,0.10526315789473684,pullingerssales,pullingerssales@aol.com,01787336887
+36,5617,158953,Touring Caravans,67,0.3235294117647059,northwesterncaravans,info@northwesterncaravans.co.uk,0161 486 6055
+37,5685,158955,Motorhomes,9,0.3380281690140845,beechwood,sales@beechwoodleisure.co.uk,01845 523500
+38,5756,158955,Touring Caravans,61,0.3380281690140845,beechwood,sales@beechwoodleisure.co.uk,01845 523500
+39,5827,158969,Motorhomes,9,2.2,j7motorhomes,sales@j7motorhomes.co.uk,01905 840288
+40,5837,158972,Motorhomes,44,1.2272727272727273,mark47,mark@dreamsrv.co.uk,01869 325522
+41,5881,158976,Touring Caravans,19,0.47368421052631576,johnwicks,sales@johnwicks.co.uk,01485 601212
+42,5900,158980,Campervans,46,0.05327868852459016,martin24,,0115 930 3140
+43,6144,158980,Motorhomes,192,0.05327868852459016,martin24,,0115 930 3140
+44,6388,158980,Towing Vehicles,6,0.05327868852459016,martin24,,0115 930 3140
+45,6632,158982,Campervans,29,0.1527777777777778,simpsonsmotorcarava,sales@simpsonsmotorcaravans.com,01493 601696
+46,6776,158982,Motorhomes,115,0.1527777777777778,simpsonsmotorcarava,sales@simpsonsmotorcaravans.com,01493 601696
+47,6920,158984,Touring Caravans,100,0.29,ub-c,sales@ub-c.co.uk,0191 4906074
+48,7020,158985,Motorhomes,7,0.6904761904761905,halleycaravans,admin@halleycaravans.co.uk,01560 484859
+49,7062,158985,Touring Caravans,35,0.6904761904761905,halleycaravans,admin@halleycaravans.co.uk,01560 484859
+50,7104,158997,Campervans,3,0.3157894736842105,jeanette.lewis,admin@southernmotorhomes.co.uk,01344 455666
+51,7142,158997,Motorhomes,35,0.3157894736842105,jeanette.lewis,admin@southernmotorhomes.co.uk,01344 455666
+52,7180,159010,Motorhomes,47,0.2926829268292683,PeterRobertsCaravans,office@peterrobertscaravans.co.uk,01484 662774
+53,7262,159010,Touring Caravans,35,0.2926829268292683,PeterRobertsCaravans,office@peterrobertscaravans.co.uk,01484 662774
+54,7344,159012,Touring Caravans,41,0.9024390243902439,darren6,sales@atlanticcaravans.co.uk,01579 321041
+55,7385,159026,Motorhomes,3,0.17333333333333334,salesgc,salesgc@goldencastle.co.uk,01452 730100
+56,7389,159026,Motorhomes,3,0.17333333333333334,salesgc,salesgc@goldencastle.co.uk,01452 713311
+57,7460,159026,Touring Caravans,72,0.17333333333333334,salesgc,salesgc@goldencastle.co.uk,01452 730100
+58,7464,159026,Touring Caravans,72,0.17333333333333334,salesgc,salesgc@goldencastle.co.uk,01452 713311
+59,7535,159095,Touring Caravans,15,0.8,charmouthcaravans,enquiries@charmouthcaravans.co.uk,01297 561231
+60,7550,159132,Touring Caravans,3,0.0,sussexeast,saleseast@sussexcaravancentre.co.uk,01342 851393
+61,7553,159133,Motorhomes,239,0.058577405857740586,clvwales,sales@clvwales.co.uk,01269 831151
+62,7792,159141,Motorhomes,69,0.14492753623188406,leisure7ltd,leisure7ltd@gmail.com,01422 200726
+63,7861,159156,Motorhomes,44,0.2916666666666667,LMTLL,sales@jmtleisure.co.uk,01934 835379
+64,7909,159156,Touring Caravans,4,0.2916666666666667,LMTLL,sales@jmtleisure.co.uk,01934 835379
+65,7957,159163,Motorhomes,32,0.5,stevej,stevej@stjmotorhomes.co.uk,01491 671563
+66,8003,159163,Touring Caravans,13,0.5,stevej,stevej@stjmotorhomes.co.uk,01491 671563
+67,8049,159165,Campervans,130,0.296551724137931,hoyles,sales@hoylesdenholme.co.uk,01274 832836
+68,8194,159165,Motorhomes,15,0.296551724137931,hoyles,sales@hoylesdenholme.co.uk,01274 832836
+69,8339,159260,Motorhomes,4,2.3,cambridge,info@cambridgecaravans.co.uk,01223 265553
+70,8359,159260,Touring Caravans,16,2.3,cambridge,info@cambridgecaravans.co.uk,01223 265553
+71,8379,159267,Motorhomes,65,0.1891891891891892,colefordleisure,sales@colefordleisure.co.uk,01594 834893
+72,8453,159267,Touring Caravans,9,0.1891891891891892,colefordleisure,sales@colefordleisure.co.uk,01594 834893
+73,8527,159271,Static Caravans,3,0.0,cara-sales,info@cara-sales.com,01482 633750
+74,8530,159273,Motorhomes,6,1.6666666666666667,hayesleisure,sales@hayesleisure.co.uk,0121 526 3433
+75,8536,159308,Motorhomes,242,0.0743801652892562,motorcaravans,motorcaravans@btconnect.com,01600 890870
+76,8778,159316,Motorhomes,55,0.07171314741035857,downtide,info@downtide.com,01263 768813
+77,9029,159316,Touring Caravans,196,0.07171314741035857,downtide,info@downtide.com,01263 768813
+78,9280,159322,Touring Caravans,32,0.20588235294117646,swindoncaravans,,01793 772096
+79,9314,159324,Motorhomes,31,0.14942528735632185,readingcaravans,,0118 9888111
+80,9401,159324,Touring Caravans,52,0.14942528735632185,readingcaravans,,0118 9888111
+81,9488,159324,Towing Vehicles,4,0.14942528735632185,readingcaravans,,0118 9888111
+82,9575,159343,Motorhomes,329,0.0547112462006079,somersetmotorhomece,info@somersetmotorhomecentre.co.uk,01823 444193
+83,9904,159352,Motorhomes,10,0.8823529411764706,motor.homes,motor.homes@threewaysgarage.co.uk,01745 827607
+84,9921,159352,Touring Caravans,7,0.8823529411764706,motor.homes,motor.homes@threewaysgarage.co.uk,01745 827607
+85,9938,159357,Campervans,30,0.4666666666666667,david80,info@wellhouseleisure.com,01226 668800
+86,9948,159357,Campervans,30,0.4666666666666667,david80,david@wellhouseleisure.com,01226 668800
+87,9968,159359,Static Caravans,172,0.20930232558139536,ndoecaravans,enquiries@ndoecaravans.co.uk,01403 274877
+88,10140,159362,Motorhomes,22,0.4090909090909091,edenmotorhomes,edenmotorhomes@btconnect.com,01209 822638
+89,10162,159423,Touring Caravans,55,0.21818181818181817,activecaravans,sales@activecaravans.co.uk,01782 538853
+90,10217,159461,Motorhomes,215,0.06976744186046512,m-d-g2,dave@countrywidemotorhomes.co.uk,01202 881089
+91,10432,159534,Motorhomes,3,0.0,nichemarketing,nichemarketing@btconnect.com,01507 311380
+92,10441,159534,Touring Caravans,6,0.0,nichemarketing,nichemarketing@btconnect.com,01507 311380
+93,10450,159596,Campervans,5,2.0,marquisdorset,sales-po@marquisleisure.co.uk,01202035480
+94,10456,159596,Campervans,5,2.0,marquisdorset,Sales-po@marquisleisure.co.uk,01202035480
+95,10463,159596,Motorhomes,8,2.0,marquisdorset,sales-po@marquisleisure.co.uk,01202035480
+96,10469,159596,Motorhomes,8,2.0,marquisdorset,Sales-po@marquisleisure.co.uk,01202035480
+97,10476,161335,Static Caravans,9,1.4444444444444444,stay4,stay@akebarpark.com,01677450201
+98,10485,162317,Touring Caravans,25,0.48,johndoe177863,sales@ennis-caravans.co.uk,01269 832381
+99,10510,164926,Motorhomes,25,0.28,simon40,simon@campervancentre.com,0238 0225577
+100,10535,175452,Static Caravans,17,0.5882352941176471,Wemyssbay,drummondmarshell@parkdean.com,01475 522589
+101,10552,177467,Lodge,3,5.2727272727272725,Berthlwyd,info@Berthlwydpark.co.uk,01492 592270
+102,10563,177467,Static Caravans,8,5.2727272727272725,Berthlwyd,info@Berthlwydpark.co.uk,01492 592270
+103,10574,178703,Campervans,18,0.296875,BTACar,btacarsales@hotmail.com,01329 834131
+104,10638,178703,Motorhomes,46,0.296875,BTACar,btacarsales@hotmail.com,01329 834131
+105,10702,179000,Static Caravans,10,0.6,NairnLochloyHoliday,iancooper@parkdeanholidays.com,0844 3353673
+106,10712,179153,Static Caravans,45,0.9795918367346939,Lyonshp,benwilliams@lyonsholidayparks.co.uk,01745 342265
+107,10761,179153,Touring Caravans,4,0.9795918367346939,Lyonshp,benwilliams@lyonsholidayparks.co.uk,01745 342265
+108,10810,179544,Motorhomes,519,0.05009633911368015,westcountryhomes,sales@westcountrymotorhomes.co.uk,01278761200
+109,11329,180175,Static Caravans,13,0.07692307692307693,Sheerness1,rob.elliott@sheernesshols.com,01795 582899
+110,11342,180389,Static Caravans,49,0.16326530612244897,goldenpalm1,simonreeson@hotmail.co.uk,07539 493773
+111,11391,183958,Touring Caravans,4,2.25,Exetercaravans,ben@exetercaravancentre.co.uk,01404 822116
+112,11395,184298,For Hire,4,0.0,info230,info@kernow-kampers.com,01726 884689
+113,11399,186709,Motorhomes,82,0.13028169014084506,Redlioncaravans,lee@rlcaravans.com,01704 889973
+114,11683,186709,Touring Caravans,202,0.13028169014084506,Redlioncaravans,lee@rlcaravans.com,01704 889973
+115,11967,186975,Lodge,9,0.7692307692307693,UKholidayhomes,sales@ukholidayhomesltd.com,07706 287837
+116,11980,186975,Static Caravans,4,0.7692307692307693,UKholidayhomes,sales@ukholidayhomesltd.com,07706 287837
+117,11993,188626,Campervans,51,0.1568627450980392,Bigwavecampers,sales@bigwavecampers.co.uk,01288 358075
+118,12044,188695,Static Caravans,16,0.0,LeisureUsed,info@skegnesscaravansales.com,01754 875050
+119,12060,188710,Static Caravans,35,0.0,LeisureNew,info@tlcteam.co.uk,01754 875050
+120,12095,189364,Touring Caravans,7,2.2857142857142856,wigancaravans,info@wigancaravans.co.uk,01695 622584
+121,12102,189448,Static Caravans,7,0.4444444444444444,Seaviewinternational,Jeremy.reuben@swholidayparks.co.uk,01726843425
+122,12111,189449,Lodge,5,2.4,Coastview123,dan.clarke@swholidayparks.co.uk,01626818350
+123,12116,189919,Motorhomes,195,0.08673469387755102,Alankerr123,sales@alankerrltd.co.uk,01803 522098
+124,12312,191869,Touring Caravans,15,0.13333333333333333,Surreyhants123,terry2187@msn.com,07980 467 987
+125,12327,191931,Campervans,4,0.2708333333333333,lee.jinks,keith.ballard@allelectric.co.uk,01384 882821
+126,12375,191931,Motorhomes,44,0.2708333333333333,lee.jinks,keith.ballard@allelectric.co.uk,01384 882821
+127,12423,192025,Motorhomes,4,3.25,smouldiow,smouldiow@yahoo.co.uk,07787341466 
+128,12424,192025,Motorhomes,4,3.25,smouldiow,smouldiow@yahoo.co.uk,01983 291251
+129,12427,192533,Motorhomes,12,5.6923076923076925,motorhomesales,motorhomes@talktalk.net,01527 852429
+130,12440,193278,Motorhomes,9,0.8333333333333334,charlotte5,charlotte@pioneercaravans.co.uk,01733 222244
+131,12458,193278,Touring Caravans,9,0.8333333333333334,charlotte5,charlotte@pioneercaravans.co.uk,01733 222244
+132,12476,194016,Motorhomes,35,0.45714285714285713,EdwardsMotorhomes,andy.dimmock@edwardsmotors.co.uk,01905 828820
+133,12511,196689,Motorhomes,21,0.24817518248175183,tottingtonmotor,sales@tottingtonmotorcompany.co.uk,01204 882211
+134,12648,196689,Towing Vehicles,116,0.24817518248175183,tottingtonmotor,sales@tottingtonmotorcompany.co.uk,01204 882211
+135,12785,196794,Lodge,13,1.45,bordercaravans,info@bordercaravans.co.uk,01835 830271
+136,12786,196794,Lodge,13,1.45,bordercaravans,info@westlands.co.uk,01461 800370
+137,12789,196794,Lodge,13,1.45,bordercaravans,info@bordercaravans.co.uk, 01450 373785
+138,12805,196794,Static Caravans,7,1.45,bordercaravans,info@bordercaravans.co.uk,01835 830271
+139,12806,196794,Static Caravans,7,1.45,bordercaravans,info@westlands.co.uk,01461 800370
+140,12809,196794,Static Caravans,7,1.45,bordercaravans,info@bordercaravans.co.uk, 01450 373785
+141,12825,196920,Touring Caravans,8,3.75,Tameside,steve@tamesidecaravans.co.uk,07525 536582
+142,12827,196920,Touring Caravans,8,3.75,Tameside,steve@tamesidecaravans.co.uk,01613 668386
+143,12833,198064,Touring Caravans,88,0.7640449438202247,Gilescaravans,matgiles@yahoo.co.uk,01483 548 320
+144,12871,198064,Touring Caravans,88,0.7640449438202247,Gilescaravans,matgiles@yahoo.co.uk,07766250513
+145,12895,198064,Touring Caravans,88,0.7640449438202247,Gilescaravans,matgiles37@yahoo.co.uk,07766250513
+146,12922,199310,Motorhomes,95,0.09554140127388536,lancastermc,sales@lancastermc.co.uk,01524 822911
+147,13236,199310,Touring Caravans,219,0.09554140127388536,lancastermc,sales@lancastermc.co.uk,01524 822911
+148,13550,199607,Campervans,9,0.08256880733944955,ALV001,sales@adventurelv.com,01539 624141
+149,13768,199607,Motorhomes,16,0.08256880733944955,ALV001,sales@adventurelv.com,01539 624141
+150,13986,199607,Touring Caravans,193,0.08256880733944955,ALV001,sales@adventurelv.com,01539 624141
+151,14204,199950,Static Caravans,6,0.6666666666666666,garyruffell2,garyruffell@ladrambay.co.uk,01395 568398
+152,14210,200248,Campervans,39,0.0,Tom19,Tom@cravantech.co.uk,01580 860851
+153,14249,200423,Campervans,8,0.2549019607843137,GoodmansMotorhomes,, 01992 713398
+154,14300,200423,Motorhomes,43,0.2549019607843137,GoodmansMotorhomes,, 01992 713398
+155,14351,200715,Motorhomes,159,0.07651715039577836,HighbrigeDevon,caravansdevon@highbridgecaravans.co.uk,01626 832792
+156,14730,200715,Touring Caravans,220,0.07651715039577836,HighbrigeDevon,caravansdevon@highbridgecaravans.co.uk,01626 832792
+157,15109,201518,Campervans,3,0.42857142857142855,LKWCampers,,01865 584068
+158,15116,201518,Motorhomes,4,0.42857142857142855,LKWCampers,,01865 584068
+159,15123,201787,Touring Caravans,20,0.55,selectcaravans,david@selectcaravans.co.uk,01623 656090
+160,15143,201789,Motorhomes,9,0.0,thecaravangroup,hello@thecaravangroup.co.uk,07824 995393
+161,15152,202263,Motorhomes,5,1.5,CC001,sales@cccampers.co.uk,0333 456 3345
+162,15158,205918,Campervans,56,0.12903225806451613,motorhomes3,enquiries@motorhomes.co.uk,01785 878787
+163,15375,205918,Motorhomes,161,0.12903225806451613,motorhomes3,enquiries@motorhomes.co.uk,01785 878787
+164,15592,205997,Campervans,16,0.09316770186335403,carmarthen,carmarthen@3asleisure.com,01267 234459
+165,15914,205997,Motorhomes,128,0.09316770186335403,carmarthen,carmarthen@3asleisure.com,01267 234459
+166,16236,205997,Touring Caravans,178,0.09316770186335403,carmarthen,carmarthen@3asleisure.com,01267 234459
+167,16558,206784,Campervans,10,0.23595505617977527,m-d-g4,sales@m-d-g.co.uk,01202 855531
+168,16647,206784,Motorhomes,79,0.23595505617977527,m-d-g4,sales@m-d-g.co.uk,01202 855531
+169,16736,207542,Touring Caravans,14,0.5714285714285714,bicester,sales@bicestercaravanandleisure.co.uk,01869 242343
+170,16750,207644,Motorhomes,33,0.5757575757575758,webbauto,sales@webbauto.co.uk,01983 528346
+171,16766,207644,Motorhomes,33,0.5757575757575758,webbauto,sales@webbauto.co.uk,01983528346
+172,16772,207644,Motorhomes,33,0.5757575757575758,webbauto,sales@webbauto.co.uk,07973269937
+173,16783,208170,Static Caravans,11,0.45454545454545453,lovat,sales@goldenleas.co.uk,01795 342464
+174,16784,208170,Static Caravans,11,0.45454545454545453,lovat,raoul@lovatparks.com,07968 063071
+175,16785,208170,Static Caravans,11,0.45454545454545453,lovat,sales@goldenleas.co.uk,01795 342464 
+176,16788,208170,Static Caravans,11,0.45454545454545453,lovat,sales@goldenleas.co.uk,01795624464
+177,16791,208170,Static Caravans,11,0.45454545454545453,lovat,sales@goldenleas.co.uk,01795342464
+178,16793,208170,Static Caravans,11,0.45454545454545453,lovat,diane@lovatparks.com,07470980991
+179,16794,208194,Static Caravans,14,0.35294117647058826,GD-Hardy,info@directcaravansales.co.uk,01754 874071
+180,16811,208194,Touring Caravans,3,0.35294117647058826,GD-Hardy,info@directcaravansales.co.uk,01754 874071
+181,16828,209189,Lodge,112,0.13768115942028986,liberty,sales@libertyleisuregroup.com,01423534624
+182,16966,209189,Static Caravans,26,0.13768115942028986,liberty,sales@libertyleisuregroup.com,01423534624
+183,17104,209821,Touring Caravans,4,1.75,samibopeep,samibopeep@gmail.com,07719923004
+184,17108,210038,Motorhomes,19,0.85,vehicles4,sales@vehicles4leisure.co.uk,01244 851464
+185,17128,212361,Motorhomes,5,4.166666666666667,billsunhinged59,billsunhinged59@outlook.com,07943311731
+186,17134,214096,Motorhomes,33,0.47058823529411764,YorkshireRose,sales@yorkshirerosemotorhomes.co.uk,01302 439360
+187,17148,214096,Motorhomes,33,0.47058823529411764,YorkshireRose,sales@yorkshirerosemotorhomes.co.uk,01302439360
+188,17168,214744,Static Caravans,49,0.32653061224489793,Ctilbury,ctilbury@parkholidays.com,07759831840
+189,17217,220410,Static Caravans,21,0.5714285714285714,TerriL,jdixson@parkholidays.com,07739832047
+190,17218,220410,Static Caravans,21,0.5714285714285714,TerriL,jdixson@parkholidays.com,01255822003
+191,17219,220410,Static Caravans,21,0.5714285714285714,TerriL,gkrzyzanowski@parkholidays.com,07754551689
+192,17224,220410,Static Caravans,21,0.5714285714285714,TerriL,jdixson@parkholidays.com,07759 833207
+193,17225,220410,Static Caravans,21,0.5714285714285714,TerriL,tlacy@parkholidays.com,07759 833 207
+194,17238,222264,Campervans,5,1.2857142857142858,mark.taylor43,mark.taylor43@googlemail.com,07882993696
+195,17240,222264,Campervans,5,1.2857142857142858,mark.taylor43,mark.taylor43@googlemail.com,0788299369
+196,17252,222264,Motorhomes,7,1.2857142857142858,mark.taylor43,mark.taylor43@googlemail.com,07882993696
+197,17254,222264,Motorhomes,7,1.2857142857142858,mark.taylor43,mark.taylor43@googlemail.com,0788299369
+198,17266,222513,Touring Caravans,8,2.0,bevfost,bevfost@hotmail.com,01757707260
+199,17272,222513,Touring Caravans,8,2.0,bevfost,bevfost@hotmail.com,07884952550
+200,17273,222513,Touring Caravans,8,2.0,bevfost,bevfost@hotmail.com,1757707260
+201,17274,223707,Motorhomes,3,0.0,cotswoldedge,mail@cotswoldedge.co.uk,01386 882866
+202,17292,223707,Touring Caravans,15,0.0,cotswoldedge,mail@cotswoldedge.co.uk,01386 882866
+203,17310,225610,Touring Caravans,16,0.25,goeauto2,sales@goeauto.co.uk,03333441170
+204,17326,234553,Static Caravans,9,0.18181818181818182,lcasey,lcasey@parkholidays.com,07759832564
+205,17337,235096,Towing Vehicles,75,0.0,CompactWales22,sales@compactcarswales.co.uk,01656 767606
+206,17412,237133,Touring Caravans,7,0.0,taylor-mills,taylor.mills@pureleisuregroup.com,
+207,17419,237844,Lodge,8,0.12631578947368421,Queen2022,info@firtreescaravanpark.com,01244398365
+208,17514,237844,Static Caravans,86,0.12631578947368421,Queen2022,info@firtreescaravanpark.com,01244398365
+209,17609,237898,Touring Caravans,3,0.0,sherwoodcaravanstor,info@sherwoodcaravanstorage.co.uk,07946527670
+210,17612,239206,Static Caravans,5,0.0,statictrader,jason@statictrader.com,01424 774 759
+211,17617,239827,Static Caravans,21,0.18181818181818182,bfreund,bfreund@parkholidays.com,07759831825
+212,17639,241165,Campervans,6,0.0,darren16,darren@dragonville.co.uk,01507499112
+213,17646,241528,Static Caravans,10,0.0,Park Holidays,tdavies@parkholidays.com,07759832095

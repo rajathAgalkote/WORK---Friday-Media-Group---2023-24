@@ -1,0 +1,478 @@
+type_name,week,id
+Accessories,1,1
+Accessories,2,1
+Accessories,3,1
+Accessories,4,1
+Accessories,5,17
+Accessories,6,22
+Accessories,7,39
+Accessories,8,76
+Accessories,9,1
+Accessories,10,1
+Accessories,11,2
+Accessories,12,1
+Accessories,13,1
+Accessories,14,1
+Accessories,15,1
+Accessories,16,1
+Accessories,17,1
+Accessories,18,1
+Accessories,19,1
+Accessories,20,1
+Accessories,21,1
+Accessories,22,1
+Accessories,23,2
+Accessories,24,1
+Accessories,25,1
+Accessories,26,1
+Accessories,27,2
+Accessories,28,1
+Accessories,29,2
+Accessories,30,1
+Accessories,31,1
+Accessories,32,1
+Accessories,33,1
+Accessories,34,1
+Accessories,35,2
+Accessories,36,1
+Accessories,37,1
+Accessories,38,1
+Accessories,39,1
+Accessories,40,2
+Accessories,41,1
+Accessories,42,1
+Accessories,43,1
+Accessories,44,1
+Accessories,45,1
+Accessories,46,1
+Accessories,47,2
+Accessories,48,1
+Accessories,49,1
+Accessories,50,1
+Accessories,51,1
+Accessories,52,1
+Accessories,53,1
+Campervans,1,301
+Campervans,2,301
+Campervans,3,204
+Campervans,4,301
+Campervans,5,301
+Campervans,6,302
+Campervans,7,302
+Campervans,8,399
+Campervans,9,302
+Campervans,10,303
+Campervans,11,400
+Campervans,12,440
+Campervans,13,346
+Campervans,14,346
+Campervans,15,347
+Campervans,16,347
+Campervans,17,347
+Campervans,18,348
+Campervans,19,348
+Campervans,20,368
+Campervans,21,368
+Campervans,22,369
+Campervans,23,469
+Campervans,24,372
+Campervans,25,372
+Campervans,26,568
+Campervans,27,376
+Campervans,28,380
+Campervans,29,383
+Campervans,30,479
+Campervans,31,384
+Campervans,32,385
+Campervans,33,385
+Campervans,34,385
+Campervans,35,482
+Campervans,36,397
+Campervans,37,397
+Campervans,38,397
+Campervans,39,397
+Campervans,40,495
+Campervans,41,397
+Campervans,42,495
+Campervans,43,397
+Campervans,44,397
+Campervans,45,431
+Campervans,46,299
+Campervans,47,397
+Campervans,48,396
+Campervans,49,299
+Campervans,50,299
+Campervans,51,299
+Campervans,52,299
+Campervans,53,98
+For Hire,1,20
+For Hire,2,20
+For Hire,3,16
+For Hire,4,20
+For Hire,5,20
+For Hire,6,20
+For Hire,7,20
+For Hire,8,24
+For Hire,9,20
+For Hire,10,20
+For Hire,11,24
+For Hire,12,24
+For Hire,13,20
+For Hire,14,20
+For Hire,15,20
+For Hire,16,20
+For Hire,17,20
+For Hire,18,20
+For Hire,19,20
+For Hire,20,20
+For Hire,21,20
+For Hire,22,20
+For Hire,23,24
+For Hire,24,20
+For Hire,25,20
+For Hire,26,28
+For Hire,27,20
+For Hire,28,20
+For Hire,29,20
+For Hire,30,24
+For Hire,31,20
+For Hire,32,20
+For Hire,33,20
+For Hire,34,20
+For Hire,35,24
+For Hire,36,20
+For Hire,37,20
+For Hire,38,20
+For Hire,39,20
+For Hire,40,24
+For Hire,41,20
+For Hire,42,24
+For Hire,43,20
+For Hire,44,20
+For Hire,45,24
+For Hire,46,16
+For Hire,47,20
+For Hire,48,20
+For Hire,49,20
+For Hire,50,20
+For Hire,51,20
+For Hire,52,20
+For Hire,53,4
+Lodge,1,60
+Lodge,2,60
+Lodge,3,43
+Lodge,4,61
+Lodge,5,61
+Lodge,6,61
+Lodge,7,61
+Lodge,8,78
+Lodge,9,61
+Lodge,10,61
+Lodge,11,78
+Lodge,12,83
+Lodge,13,63
+Lodge,14,63
+Lodge,15,63
+Lodge,16,63
+Lodge,17,64
+Lodge,18,64
+Lodge,19,64
+Lodge,20,64
+Lodge,21,64
+Lodge,22,64
+Lodge,23,83
+Lodge,24,66
+Lodge,25,66
+Lodge,26,100
+Lodge,27,66
+Lodge,28,67
+Lodge,29,67
+Lodge,30,83
+Lodge,31,69
+Lodge,32,70
+Lodge,33,70
+Lodge,34,70
+Lodge,35,90
+Lodge,36,72
+Lodge,37,72
+Lodge,38,73
+Lodge,39,73
+Lodge,40,92
+Lodge,41,78
+Lodge,42,98
+Lodge,43,78
+Lodge,44,79
+Lodge,45,79
+Lodge,46,59
+Lodge,47,79
+Lodge,48,76
+Lodge,49,60
+Lodge,50,60
+Lodge,51,60
+Lodge,52,60
+Lodge,53,20
+Motorhomes,1,180
+Motorhomes,2,187
+Motorhomes,3,144
+Motorhomes,4,192
+Motorhomes,5,193
+Motorhomes,6,193
+Motorhomes,7,199
+Motorhomes,8,252
+Motorhomes,9,199
+Motorhomes,10,200
+Motorhomes,11,252
+Motorhomes,12,325
+Motorhomes,13,216
+Motorhomes,14,218
+Motorhomes,15,218
+Motorhomes,16,223
+Motorhomes,17,224
+Motorhomes,18,227
+Motorhomes,19,229
+Motorhomes,20,229
+Motorhomes,21,234
+Motorhomes,22,234
+Motorhomes,23,293
+Motorhomes,24,251
+Motorhomes,25,251
+Motorhomes,26,425
+Motorhomes,27,274
+Motorhomes,28,274
+Motorhomes,29,282
+Motorhomes,30,313
+Motorhomes,31,287
+Motorhomes,32,296
+Motorhomes,33,298
+Motorhomes,34,304
+Motorhomes,35,384
+Motorhomes,36,313
+Motorhomes,37,324
+Motorhomes,38,336
+Motorhomes,39,338
+Motorhomes,40,436
+Motorhomes,41,349
+Motorhomes,42,565
+Motorhomes,43,366
+Motorhomes,44,380
+Motorhomes,45,189
+Motorhomes,46,161
+Motorhomes,47,261
+Motorhomes,48,196
+Motorhomes,49,166
+Motorhomes,50,168
+Motorhomes,51,169
+Motorhomes,52,178
+Motorhomes,53,106
+Static Caravans,1,478
+Static Caravans,2,523
+Static Caravans,3,384
+Static Caravans,4,528
+Static Caravans,5,529
+Static Caravans,6,531
+Static Caravans,7,535
+Static Caravans,8,680
+Static Caravans,9,542
+Static Caravans,10,550
+Static Caravans,11,695
+Static Caravans,12,787
+Static Caravans,13,575
+Static Caravans,14,577
+Static Caravans,15,578
+Static Caravans,16,579
+Static Caravans,17,579
+Static Caravans,18,579
+Static Caravans,19,584
+Static Caravans,20,585
+Static Caravans,21,587
+Static Caravans,22,587
+Static Caravans,23,732
+Static Caravans,24,593
+Static Caravans,25,593
+Static Caravans,26,953
+Static Caravans,27,598
+Static Caravans,28,599
+Static Caravans,29,603
+Static Caravans,30,739
+Static Caravans,31,615
+Static Caravans,32,635
+Static Caravans,33,635
+Static Caravans,34,638
+Static Caravans,35,795
+Static Caravans,36,651
+Static Caravans,37,661
+Static Caravans,38,679
+Static Caravans,39,692
+Static Caravans,40,866
+Static Caravans,41,706
+Static Caravans,42,970
+Static Caravans,43,713
+Static Caravans,44,713
+Static Caravans,45,610
+Static Caravans,46,462
+Static Caravans,47,643
+Static Caravans,48,607
+Static Caravans,49,469
+Static Caravans,50,473
+Static Caravans,51,474
+Static Caravans,52,475
+Static Caravans,53,191
+Touring Caravans,1,370
+Touring Caravans,2,374
+Touring Caravans,3,301
+Touring Caravans,4,376
+Touring Caravans,5,380
+Touring Caravans,6,387
+Touring Caravans,7,396
+Touring Caravans,8,479
+Touring Caravans,9,405
+Touring Caravans,10,406
+Touring Caravans,11,480
+Touring Caravans,12,658
+Touring Caravans,13,434
+Touring Caravans,14,435
+Touring Caravans,15,435
+Touring Caravans,16,436
+Touring Caravans,17,436
+Touring Caravans,18,439
+Touring Caravans,19,441
+Touring Caravans,20,443
+Touring Caravans,21,458
+Touring Caravans,22,459
+Touring Caravans,23,544
+Touring Caravans,24,466
+Touring Caravans,25,469
+Touring Caravans,26,780
+Touring Caravans,27,480
+Touring Caravans,28,487
+Touring Caravans,29,515
+Touring Caravans,30,553
+Touring Caravans,31,495
+Touring Caravans,32,509
+Touring Caravans,33,522
+Touring Caravans,34,525
+Touring Caravans,35,612
+Touring Caravans,36,540
+Touring Caravans,37,548
+Touring Caravans,38,560
+Touring Caravans,39,564
+Touring Caravans,40,669
+Touring Caravans,41,569
+Touring Caravans,42,862
+Touring Caravans,43,579
+Touring Caravans,44,581
+Touring Caravans,45,376
+Touring Caravans,46,337
+Touring Caravans,47,406
+Touring Caravans,48,377
+Touring Caravans,49,305
+Touring Caravans,50,310
+Touring Caravans,51,311
+Touring Caravans,52,311
+Touring Caravans,53,134
+Towing Vehicles,1,73
+Towing Vehicles,2,73
+Towing Vehicles,3,73
+Towing Vehicles,4,73
+Towing Vehicles,5,74
+Towing Vehicles,6,77
+Towing Vehicles,7,77
+Towing Vehicles,8,77
+Towing Vehicles,9,77
+Towing Vehicles,10,78
+Towing Vehicles,11,80
+Towing Vehicles,12,160
+Towing Vehicles,13,80
+Towing Vehicles,14,80
+Towing Vehicles,15,80
+Towing Vehicles,16,80
+Towing Vehicles,17,80
+Towing Vehicles,18,80
+Towing Vehicles,19,80
+Towing Vehicles,20,80
+Towing Vehicles,21,80
+Towing Vehicles,22,80
+Towing Vehicles,23,80
+Towing Vehicles,24,80
+Towing Vehicles,25,80
+Towing Vehicles,26,160
+Towing Vehicles,27,80
+Towing Vehicles,28,80
+Towing Vehicles,29,80
+Towing Vehicles,30,80
+Towing Vehicles,31,80
+Towing Vehicles,32,80
+Towing Vehicles,33,80
+Towing Vehicles,34,80
+Towing Vehicles,35,80
+Towing Vehicles,36,81
+Towing Vehicles,37,81
+Towing Vehicles,38,82
+Towing Vehicles,39,84
+Towing Vehicles,40,107
+Towing Vehicles,41,120
+Towing Vehicles,42,203
+Towing Vehicles,43,123
+Towing Vehicles,44,134
+Towing Vehicles,45,53
+Towing Vehicles,46,64
+Towing Vehicles,47,128
+Towing Vehicles,48,69
+Towing Vehicles,49,69
+Towing Vehicles,50,69
+Towing Vehicles,51,69
+Towing Vehicles,52,71
+Towing Vehicles,53,72
+Wanted,1,4
+Wanted,2,4
+Wanted,3,2
+Wanted,4,4
+Wanted,5,4
+Wanted,6,4
+Wanted,7,4
+Wanted,8,6
+Wanted,9,6
+Wanted,10,6
+Wanted,11,8
+Wanted,12,8
+Wanted,13,6
+Wanted,14,6
+Wanted,15,6
+Wanted,16,6
+Wanted,17,6
+Wanted,18,6
+Wanted,19,6
+Wanted,20,6
+Wanted,21,6
+Wanted,22,6
+Wanted,23,8
+Wanted,24,6
+Wanted,25,6
+Wanted,26,10
+Wanted,27,6
+Wanted,28,6
+Wanted,29,6
+Wanted,30,8
+Wanted,31,6
+Wanted,32,6
+Wanted,33,6
+Wanted,34,6
+Wanted,35,8
+Wanted,36,6
+Wanted,37,6
+Wanted,38,6
+Wanted,39,6
+Wanted,40,8
+Wanted,41,6
+Wanted,42,8
+Wanted,43,6
+Wanted,44,6
+Wanted,45,4
+Wanted,46,4
+Wanted,47,6
+Wanted,48,6
+Wanted,49,4
+Wanted,50,4
+Wanted,51,4
+Wanted,52,4
+Wanted,53,2

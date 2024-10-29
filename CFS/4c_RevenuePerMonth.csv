@@ -1,0 +1,102 @@
+type_name,month,cost
+Accessories,1,52.21590909090909
+Accessories,2,115.64912280701755
+Accessories,3,79.97237569060773
+Accessories,4,136.06134969325154
+Accessories,5,119.16326530612245
+Accessories,6,130.54032258064515
+Accessories,7,166.48125
+Accessories,8,61.238207547169814
+Accessories,9,599.0
+Accessories,11,2099.0
+Accessories,12,1499.0
+Campervans,1,97.51219512195122
+Campervans,2,67.48051948051948
+Campervans,3,29.328358208955223
+Campervans,4,105.08620689655173
+Campervans,5,92.31645569620254
+Campervans,6,93.42857142857143
+Campervans,7,159.5891472868217
+Campervans,8,156.17857142857142
+Campervans,9,0.0
+Campervans,10,0.0
+Campervans,11,0.0
+Campervans,12,149.9
+For Hire,3,0.0
+For Hire,5,0.0
+For Hire,6,0.0
+For Hire,7,0.0
+For Hire,8,0.0
+For Hire,9,0.0
+For Hire,12,0.0
+Lodge,1,124.91666666666667
+Lodge,2,59.22222222222222
+Lodge,3,29.59259259259259
+Lodge,4,0.0
+Lodge,5,0.0
+Lodge,6,0.0
+Lodge,7,0.0
+Lodge,8,205.44444444444446
+Lodge,9,0.0
+Lodge,10,0.0
+Lodge,11,0.0
+Lodge,12,0.0
+Motorhomes,1,6.448500651890482
+Motorhomes,2,22.354430379746834
+Motorhomes,3,9.728522336769759
+Motorhomes,4,16.355450236966824
+Motorhomes,5,27.456565656565658
+Motorhomes,6,46.53587786259542
+Motorhomes,7,37.459119496855344
+Motorhomes,8,56.78715596330275
+Motorhomes,9,6.972093023255814
+Motorhomes,10,5.9015748031496065
+Motorhomes,11,0.0
+Motorhomes,12,0.0
+Services,2,2399.0
+Services,3,0.0
+Services,4,0.0
+Services,8,0.0
+Static Caravans,1,42.66538461538462
+Static Caravans,2,55.26274509803922
+Static Caravans,3,59.89887640449438
+Static Caravans,4,55.58278145695364
+Static Caravans,5,79.20125786163523
+Static Caravans,6,44.57843137254902
+Static Caravans,7,58.254612546125465
+Static Caravans,8,46.38988095238095
+Static Caravans,9,0.0
+Static Caravans,10,0.0
+Static Caravans,11,713.5972222222222
+Static Caravans,12,130.88095238095238
+Touring Caravans,1,64.16713091922006
+Touring Caravans,2,79.66183574879227
+Touring Caravans,3,105.66891891891892
+Touring Caravans,4,149.16569200779728
+Touring Caravans,5,202.89733059548254
+Touring Caravans,6,95.0545905707196
+Touring Caravans,7,149.8322222222222
+Touring Caravans,8,221.1571194762684
+Touring Caravans,9,12.93851132686084
+Touring Caravans,10,0.0
+Touring Caravans,11,8.354515050167224
+Touring Caravans,12,49.080357142857146
+Towing Vehicles,1,177.55555555555554
+Towing Vehicles,2,637.375
+Towing Vehicles,3,528.2857142857143
+Towing Vehicles,4,649.6
+Towing Vehicles,5,163.45454545454547
+Towing Vehicles,6,58.8
+Towing Vehicles,7,69.975
+Towing Vehicles,8,359.76190476190476
+Towing Vehicles,9,0.0
+Towing Vehicles,10,0.0
+Towing Vehicles,11,0.0
+Towing Vehicles,12,0.0
+Wanted,1,166.5
+Wanted,2,0.0
+Wanted,3,749.5
+Wanted,4,0.0
+Wanted,6,0.0
+Wanted,7,0.0
+Wanted,8,0.0
