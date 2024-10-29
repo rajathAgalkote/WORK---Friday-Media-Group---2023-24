@@ -1,0 +1,427 @@
+,user_id,type_name,ads_count,username,email,phone,latest_purchase_date,Recency,Frequency,Monetary,RFM_Score
+0,5750,Motorhomes,44,wilkinsmotorcaravans,sales@wilkinsmotorcaravans.co.uk,01285 821216,2023-09-12 08:41:01,1,45,0.0,3.22
+1,28328,Accessories,3,peter-irene.stanger,peter-irene.stanger@blueyonder.co.uk,01226211522,2023-08-19 16:36:51,25,3,0.0,2.95
+2,32040,Accessories,7,petedobbie,petedobbie@live.co.uk,07442188857,2023-05-04 15:06:38,132,7,0.0,2.7
+3,33202,Accessories,11,riverside55,riverside55@talk21.com,07759606464,2023-08-31 07:49:07,13,11,0.0,3.1
+4,34270,Accessories,3,maggie.francis,maggie.francis@talktalk.net,01291629206,2023-09-09 15:09:44,4,3,0.0,3.08
+5,35363,Accessories,6,mg6jad,mg6jad@yahoo.com,07717497369,2023-09-03 16:36:11,10,6,0.0,3.1
+6,37280,Accessories,6,colin.drummond99,colin.drummond99@btinternet.com,07460309247,2023-09-03 08:40:59,10,6,0.0,3.1
+7,37442,Accessories,4,geoffseal,geoffseal@blueyonder.co.uk,01293425207,2023-03-30 12:22:17,167,4,0.0,2.58
+8,37654,Accessories,3,barry1947,barry1947@googlemail.com,07534965910,2023-09-13 17:36:26,0,3,0.0,3.11
+9,41861,Accessories,5,andrewcooper,andrewcooper@btinternet.com,07712765519,2023-03-19 12:29:28,178,5,0.0,2.56
+10,48625,Accessories,4,keith.land,keith.land@btinternet.com,07740468828,2023-07-08 16:18:24,67,4,0.0,2.82
+11,49451,Accessories,4,adderley_c,adderley_c@btinternet.com,01568616699,2023-08-21 23:30:26,22,4,0.0,3.0
+12,56232,Accessories,4,a_cairns,a_cairns@sky.com,01737844760,2023-05-21 10:58:37,115,4,0.0,2.7
+13,64641,Accessories,3,johnbrackston24,johnbrackston248@hotmail.co.uk,01903812415,2023-05-05 00:39:19,131,3,0.0,2.64
+14,65600,Touring Caravans,5,YW141YXLC491502,boscregecaravanpark@gmail.com,01736 762231,2023-03-24 11:44:14,173,5,0.0,2.58
+15,68849,Accessories,3,stephenmcinnes,stephenmcinnes@talktalk.net, 07768640445,2023-09-03 12:31:41,10,3,0.0,3.05
+16,69356,Static Caravans,362,lloydscaravans,enquiries@lloydscaravans.co.uk,01745 832050,2023-07-30 14:40:37,45,362,0.0,3.02
+17,75361,Accessories,3,john58,john@ollivere.com,07720394042,2023-09-13 23:11:20,0,3,0.0,3.11
+18,76952,Accessories,5,jandahitch,jandahitch@btinternet.com,07973186868,2023-08-05 17:16:31,39,5,0.0,2.94
+19,78133,Accessories,5,southview2010,southview2010@hotmail.co.uk,01653668497,2023-09-11 18:07:21,2,5,0.0,3.14
+20,80240,Accessories,5,carolhudson59,carolhudson59@btinternet.com,07484671717,2023-08-02 15:06:55,42,5,0.0,2.93
+21,82340,Accessories,4,richard.ward59,richard.ward59@btinternet.com,07702997479,2023-09-09 16:05:15,4,4,0.0,3.11
+22,89340,Accessories,3,richard.uttley2,richard.uttley2@btinternet.com,01243377290,2023-04-27 16:59:48,139,3,0.0,2.62
+23,89836,Accessories,4,mike.judi.nevitt,mike.judi.nevitt@gmail.com,01782512685,2023-08-27 11:43:18,17,4,0.0,3.03
+24,93066,Static Caravans,5,smytham,info@smytham.co.uk,01805 622110,2023-08-27 12:46:25,17,5,0.0,3.05
+25,110225,Accessories,3,mb17,mb17@blueyonder.co.uk,07973907221,2023-08-22 19:44:34,22,3,0.0,2.98
+26,112118,Motorhomes,29,pearmanbriggs,pearmanbriggs@gmail.com,01531 822666,2023-02-16 20:43:24,209,29,0.0,2.56
+27,112143,Touring Caravans,81,pearmanbriggsglouces,sales@pearmanbriggs.co.uk,01531 822666,2023-03-29 16:33:52,168,81,0.0,2.68
+28,120961,Accessories,3,pottemick,pottemick@hotmail.co.uk,01903 954268,2023-08-19 08:12:00,25,3,0.0,2.95
+29,122550,Motorhomes,3,ernie43,ernie43@hotmail.co.uk,0776 3336839,2023-08-26 12:14:29,18,3,8.99,4.26
+30,130848,Accessories,5,hallcc,hallcc@msn.com,01992 577294,2023-04-09 22:10:27,157,5,0.0,2.62
+31,132301,Campervans,18,sales123456,sales@highlandcampervans.com,01667 493976,2023-05-21 14:40:09,115,61,0.0,2.8
+32,132301,Motorhomes,43,sales123456,sales@highlandcampervans.com,01667 493976,2023-05-21 14:40:09,115,61,0.0,2.8
+33,140120,Accessories,3,jmeggs919,jmeggs919@gmail.com,07515 254326,2023-08-26 11:57:16,18,4,0.0,3.03
+34,147983,Motorhomes,3,chris.hale,chris.hale@sky.com,07971956670,2023-09-10 08:56:31,3,3,0.0,3.09
+35,149734,Accessories,6,s.arnold1947,s.arnold1947@yahoo.co.uk,07733399993,2023-08-28 23:24:15,15,7,0.0,3.08
+36,155855,Accessories,4,agmuk,info@agmuk.co.uk,07702 074211,2023-08-31 13:14:38,13,4,0.0,3.06
+37,156527,Accessories,3,castle2fix,castle2fix@aol.com,07807150494,2023-09-06 16:00:07,7,3,46.97,4.8
+38,158551,Motorhomes,69,wellsbridgemotorhom,info@wellsbridgemotorhomes.com,01487815511,2023-07-31 10:40:08,44,71,0.0,3.0
+39,158596,Touring Caravans,24,southeastcaravans,sales@southeastcaravans.co.uk,01227 772373,2023-02-28 06:40:08,197,25,0.0,2.58
+40,158740,Motorhomes,21,tomrylie,tomrylie@aol.com,01233 712021,2023-02-23 22:40:52,202,22,0.0,2.56
+41,158760,Touring Caravans,35,tamworthcaravans,tamworthcaravans@tiscali.co.uk,01827 262666,2023-02-24 22:41:18,201,35,0.0,2.58
+42,158778,Motorhomes,7,blackwoodleisur,blackwoodleisure@tiscali.co.uk,01283 819620,2023-07-29 15:01:55,46,48,0.0,2.98
+43,158778,Touring Caravans,41,blackwoodleisur,blackwoodleisure@tiscali.co.uk,01283 819620,2023-07-29 15:01:55,46,48,0.0,2.98
+44,158795,Motorhomes,329,highbridgecaravans,info@highbridgecaravans.co.uk,01278 782725,2023-07-29 15:01:37,46,1183,0.0,3.01
+45,158795,Touring Caravans,854,highbridgecaravans,info@highbridgecaravans.co.uk,01278 782725,2023-07-29 15:01:37,46,1183,0.0,3.01
+46,158798,Campervans,70,caravansforsale2,caravansforsale@southdownsmotorcaravans.co.uk,02392 674820,2023-07-29 15:01:49,46,313,0.0,3.01
+47,158798,Motorhomes,243,caravansforsale2,caravansforsale@southdownsmotorcaravans.co.uk,02392 674820,2023-07-29 15:01:49,46,313,0.0,3.01
+48,158803,Motorhomes,369,teamchelston,mike.davis@teamchelston.co.uk,01823 662075,2023-07-29 15:00:14,46,369,0.0,3.01
+49,158808,Motorhomes,9,catherine4,info@bmvcaravans.co.uk,01747 851497,2023-04-09 07:40:24,157,75,0.0,2.7
+50,158808,Touring Caravans,66,catherine4,info@bmvcaravans.co.uk,01747 851497,2023-04-09 07:40:24,157,75,0.0,2.7
+51,158814,Touring Caravans,61,canterburycaravans,sales@canterburycaravans.co.uk,01227 712 777,2023-09-09 14:56:55,4,61,0.0,3.2
+52,158819,Motorhomes,6,oxfordcaravans,sales@oxfordcaravans.com,01844 339566,2023-04-21 16:40:07,145,10,0.0,2.68
+53,158819,Touring Caravans,4,oxfordcaravans,sales@oxfordcaravans.com,01844 339566,2023-04-21 16:40:07,145,10,0.0,2.68
+54,158828,Motorhomes,46,glossopcaravans2,info@glossopcaravans.co.uk,01457 868011,2023-09-13 16:40:08,0,564,0.0,3.26
+55,158828,Touring Caravans,514,glossopcaravans2,info@glossopcaravans.co.uk,01457 868011,2023-09-13 16:40:08,0,564,0.0,3.26
+56,158831,Motorhomes,91,jcleisure,sales@jcleisure.co.uk,01797 227337,2023-09-13 11:40:08,0,91,0.0,3.24
+57,158838,Static Caravans,24,roundstonecaravans,sales@roundstonecaravans.com,01403 730218,2020-12-24 01:40:08,993,26,0.0,2.47
+58,158845,Touring Caravans,149,wandahome,sales@wandahome.co.uk,01977 633100,2023-07-30 14:41:52,45,149,0.0,3.01
+59,158875,Motorhomes,136,stewartmouland,generalsales@stewartmouland.co.uk,01273 587229,2023-09-07 14:40:08,6,140,0.0,3.2
+60,158885,Motorhomes,13,exmarquis,sales-ex@marquisleisure.co.uk,01392 446250,2023-09-13 13:41:20,0,37,0.0,3.22
+61,158885,Touring Caravans,24,exmarquis,sales-ex@marquisleisure.co.uk,01392 446250,2023-09-13 13:41:20,0,37,0.0,3.22
+62,158911,Static Caravans,4,ennis-caravans,shaun.ennis@ennis-caravans.co.uk,01269 832 381,2023-07-04 16:20:08,71,36,0.0,2.89
+63,158911,Touring Caravans,30,ennis-caravans,shaun.ennis@ennis-caravans.co.uk,01269 832 381,2023-07-04 16:20:08,71,36,0.0,2.89
+64,158926,Motorhomes,231,tynevalleymotorhome,sales@tynevalleymotorhomes.co.uk,01207 272777,2023-07-29 14:57:07,46,231,0.0,3.0
+65,158927,Motorhomes,77,premiermotorhomes,sales@premiermotorhomes.uk,01243 511189,2023-08-29 12:32:54,15,78,0.0,3.14
+66,158943,Campervans,28,pullingerssales,pullingerssales@aol.com,01787336887,2023-07-29 15:19:10,46,131,0.0,3.0
+67,158943,Motorhomes,103,pullingerssales,pullingerssales@aol.com,01787336887,2023-07-29 15:19:10,46,131,0.0,3.0
+68,158953,Touring Caravans,70,northwesterncaravans,info@northwesterncaravans.co.uk,0161 486 6055,2023-09-12 11:46:58,1,71,0.0,3.23
+69,158955,Motorhomes,13,beechwood,sales@beechwoodleisure.co.uk,01845 523500,2023-09-13 17:40:08,0,122,0.0,3.24
+70,158955,Touring Caravans,107,beechwood,sales@beechwoodleisure.co.uk,01845 523500,2023-09-13 17:40:08,0,122,0.0,3.24
+71,158969,Motorhomes,9,j7motorhomes,sales@j7motorhomes.co.uk,01905 840288,2023-07-10 23:20:15,64,10,0.0,2.86
+72,158972,Motorhomes,44,mark47,mark@dreamsrv.co.uk,01869 325522,2023-02-28 22:41:05,197,44,0.0,2.59
+73,158976,Touring Caravans,19,johnwicks,sales@johnwicks.co.uk,01485 601212,2023-01-30 22:40:07,226,19,0.0,2.53
+74,158980,Campervans,49,martin24,,0115 930 3140,2023-09-13 19:40:08,0,249,0.0,3.25
+75,158980,Motorhomes,194,martin24,,0115 930 3140,2023-09-13 19:40:08,0,249,0.0,3.25
+76,158980,Towing Vehicles,6,martin24,,0115 930 3140,2023-09-13 19:40:08,0,249,0.0,3.25
+77,158982,Campervans,29,simpsonsmotorcarava,sales@simpsonsmotorcaravans.com,01493 601696,2023-07-30 07:42:20,45,142,0.0,3.01
+78,158982,Motorhomes,113,simpsonsmotorcarava,sales@simpsonsmotorcaravans.com,01493 601696,2023-07-30 07:42:20,45,142,0.0,3.01
+79,158984,Touring Caravans,100,ub-c,sales@ub-c.co.uk,0191 4906074,2021-03-22 19:58:19,905,100,0.0,2.5
+80,158985,Motorhomes,7,halleycaravans,admin@halleycaravans.co.uk,01560 484859,2023-03-29 16:40:46,168,42,0.0,2.66
+81,158985,Touring Caravans,35,halleycaravans,admin@halleycaravans.co.uk,01560 484859,2023-03-29 16:40:46,168,42,0.0,2.66
+82,158997,Campervans,3,jeanette.lewis,admin@southernmotorhomes.co.uk,01344 455666,2023-02-28 06:40:11,197,38,0.0,2.59
+83,158997,Motorhomes,35,jeanette.lewis,admin@southernmotorhomes.co.uk,01344 455666,2023-02-28 06:40:11,197,38,0.0,2.59
+84,159010,Motorhomes,46,PeterRobertsCaravans,office@peterrobertscaravans.co.uk,01484 662774,2023-07-30 07:41:47,45,81,0.0,3.0
+85,159010,Touring Caravans,35,PeterRobertsCaravans,office@peterrobertscaravans.co.uk,01484 662774,2023-07-30 07:41:47,45,81,0.0,3.0
+86,159012,Touring Caravans,40,darren6,sales@atlanticcaravans.co.uk,01579 321041,2023-07-29 15:15:57,46,40,0.0,2.98
+87,159026,Motorhomes,4,salesgc,salesgc@goldencastle.co.uk,01452 730100,2023-09-08 14:23:10,5,76,0.0,3.2
+88,159026,Touring Caravans,72,salesgc,salesgc@goldencastle.co.uk,01452 730100,2023-09-08 14:23:10,5,76,0.0,3.2
+89,159095,Touring Caravans,15,charmouthcaravans,enquiries@charmouthcaravans.co.uk,01297 561231,2023-02-25 22:40:25,200,15,0.0,2.55
+90,159131,Touring Caravans,33,thecaravanplace,thecaravanplace@aol.com,01902 700 222,2023-09-12 16:43:32,1,35,0.0,3.21
+91,159132,Touring Caravans,3,sussexeast,saleseast@sussexcaravancentre.co.uk,01342 851393,2020-12-18 18:56:37,999,3,0.0,2.37
+92,159133,Motorhomes,239,clvwales,sales@clvwales.co.uk,01269 831151,2023-09-13 11:40:08,0,239,0.0,3.25
+93,159141,Motorhomes,68,leisure7ltd,leisure7ltd@gmail.com,01422 200726,2023-07-30 14:41:41,45,68,0.0,3.0
+94,159156,Motorhomes,44,LMTLL,sales@jmtleisure.co.uk,01934 835379,2023-03-29 16:31:32,168,48,0.0,2.66
+95,159156,Touring Caravans,4,LMTLL,sales@jmtleisure.co.uk,01934 835379,2023-03-29 16:31:32,168,48,0.0,2.66
+96,159163,Motorhomes,32,stevej,stevej@stjmotorhomes.co.uk,01491 671563,2023-02-28 22:41:20,197,46,0.0,2.59
+97,159163,Touring Caravans,13,stevej,stevej@stjmotorhomes.co.uk,01491 671563,2023-02-28 22:41:20,197,46,0.0,2.59
+98,159165,Campervans,130,hoyles,sales@hoylesdenholme.co.uk,01274 832836,2023-07-30 14:41:27,45,145,0.0,3.01
+99,159165,Motorhomes,15,hoyles,sales@hoylesdenholme.co.uk,01274 832836,2023-07-30 14:41:27,45,145,0.0,3.01
+100,159260,Motorhomes,4,cambridge,info@cambridgecaravans.co.uk,01223 265553,2023-02-04 22:42:12,221,20,0.0,2.53
+101,159260,Touring Caravans,16,cambridge,info@cambridgecaravans.co.uk,01223 265553,2023-02-04 22:42:12,221,20,0.0,2.53
+102,159264,Motorhomes,11,peter65,peter@danumleisure.com,01302 708566,2023-06-24 14:40:44,81,11,0.0,2.82
+103,159267,Motorhomes,65,colefordleisure,sales@colefordleisure.co.uk,01594 834893,2023-02-28 09:40:50,197,74,0.0,2.6
+104,159267,Touring Caravans,9,colefordleisure,sales@colefordleisure.co.uk,01594 834893,2023-02-28 09:40:50,197,74,0.0,2.6
+105,159271,Static Caravans,3,cara-sales,info@cara-sales.com,01482 633750,2021-03-08 19:46:17,919,3,0.0,2.37
+106,159273,Motorhomes,6,hayesleisure,sales@hayesleisure.co.uk,0121 526 3433,2023-02-10 22:41:16,215,6,0.0,2.5
+107,159308,Motorhomes,219,motorcaravans,motorcaravans@btconnect.com,01600 890870,2023-07-30 14:41:48,45,219,0.0,3.01
+108,159316,Motorhomes,42,downtide,info@downtide.com,01263 768813,2023-07-30 14:41:04,45,227,9.99,4.34
+109,159316,Touring Caravans,185,downtide,info@downtide.com,01263 768813,2023-07-30 14:41:04,45,227,9.99,4.34
+110,159322,Touring Caravans,27,swindoncaravans,,01793 772096,2023-05-04 14:40:10,132,29,0.0,2.74
+111,159324,Motorhomes,30,readingcaravans,,0118 9888111,2023-09-09 12:40:06,4,84,0.0,3.21
+112,159324,Touring Caravans,50,readingcaravans,,0118 9888111,2023-09-09 12:40:06,4,84,0.0,3.21
+113,159324,Towing Vehicles,4,readingcaravans,,0118 9888111,2023-09-09 12:40:06,4,84,0.0,3.21
+114,159343,Motorhomes,316,somersetmotorhomece,info@somersetmotorhomecentre.co.uk,01823 444193,2023-07-29 14:50:30,46,316,0.0,3.01
+115,159352,Motorhomes,10,motor.homes,motor.homes@threewaysgarage.co.uk,01745 827607,2020-12-16 18:59:25,1001,17,0.0,2.46
+116,159352,Touring Caravans,7,motor.homes,motor.homes@threewaysgarage.co.uk,01745 827607,2020-12-16 18:59:25,1001,17,0.0,2.46
+117,159357,Campervans,33,david80,info@wellhouseleisure.com,01226 668800,2023-09-12 14:52:29,1,33,0.0,3.21
+118,159359,Static Caravans,160,ndoecaravans,enquiries@ndoecaravans.co.uk,01403 274877,2023-07-29 14:42:59,46,160,0.0,3.0
+119,159362,Motorhomes,22,edenmotorhomes,edenmotorhomes@btconnect.com,01209 822638,2023-02-28 15:40:08,197,22,0.0,2.57
+120,159423,Touring Caravans,49,activecaravans,sales@activecaravans.co.uk,01782 538853,2023-04-08 14:47:11,158,49,0.0,2.69
+121,159461,Motorhomes,205,m-d-g2,dave@countrywidemotorhomes.co.uk,01202 881089,2023-04-27 14:40:51,139,205,0.0,2.76
+122,159534,Motorhomes,3,nichemarketing,nichemarketing@btconnect.com,01507 311380,2019-02-21 02:41:10,1665,9,0.0,2.43
+123,159534,Touring Caravans,6,nichemarketing,nichemarketing@btconnect.com,01507 311380,2019-02-21 02:41:10,1665,9,0.0,2.43
+124,159583,Motorhomes,6,br0wnhills,newark_caravans@bmlsales.net,01636 704201,2022-11-16 12:42:28,301,6,0.0,2.45
+125,159592,Motorhomes,16,marquisdevon,sales-de@marquisleisure.co.uk,01752948353,2023-09-09 17:40:08,4,18,0.0,3.17
+126,159595,Motorhomes,11,marquisberkshire,sales-nb@marquisleisure.co.uk,01635726642,2023-09-11 13:40:08,2,11,0.0,3.17
+127,159596,Campervans,6,marquisdorset,sales-po@marquisleisure.co.uk,01202035480,2023-09-11 13:40:09,2,15,0.0,3.18
+128,159596,Motorhomes,9,marquisdorset,sales-po@marquisleisure.co.uk,01202035480,2023-09-11 13:40:09,2,15,0.0,3.18
+129,159597,Motorhomes,11,marquisgloucestershi,sales-tk@marquisleisure.co.uk,01684321780,2023-09-04 13:40:12,9,11,0.0,3.12
+130,159598,Motorhomes,7,marquishampshire,sales-so@marquisleisure.co.uk,01489345903,2023-09-05 17:40:08,8,9,0.0,3.12
+131,159599,Motorhomes,8,marquislancashire,sales-cp@marquisleisure.co.uk,01772937830,2023-09-01 13:41:46,12,10,0.0,3.1
+132,159600,Campervans,4,marquisnorthants,sales-nh@marquisleisure.co.uk,01604318272,2023-09-13 21:40:08,0,16,0.0,3.2
+133,159600,Motorhomes,11,marquisnorthants,sales-nh@marquisleisure.co.uk,01604318272,2023-09-13 21:40:08,0,16,0.0,3.2
+134,159601,Motorhomes,6,marquissouthyorkshir,sales-sy@marquisleisure.co.uk,01909298841,2023-09-12 21:40:07,1,8,0.0,3.16
+135,159603,Motorhomes,12,marquissuffolk,sales-ip@marquisleisure.co.uk,01483665252,2023-09-12 17:40:46,1,29,0.0,3.2
+136,159603,Touring Caravans,15,marquissuffolk,sales-ip@marquisleisure.co.uk,01483665252,2023-09-12 17:40:46,1,29,0.0,3.2
+137,159604,Motorhomes,10,marquissussex,sales-gc@marquisleisure.co.uk,01825592880,2023-09-02 13:40:03,11,10,0.0,3.11
+138,159605,Motorhomes,9,marquisdurham,sales-by@marquisleisure.co.uk,01914999294,2023-09-13 13:41:08,0,31,0.0,3.22
+139,159605,Touring Caravans,22,marquisdurham,sales-by@marquisleisure.co.uk,01914999294,2023-09-13 13:41:08,0,31,0.0,3.22
+140,161335,Static Caravans,9,stay4,stay@akebarpark.com,01677450201,2021-03-22 19:42:29,905,9,0.0,2.44
+141,162317,Touring Caravans,25,johndoe177863,sales@ennis-caravans.co.uk,01269 832381,2016-07-17 07:32:10,2614,25,0.0,2.46
+142,164518,Static Caravans,7,Searivers,steve.mooney@seariversleisure.co.uk,07462343698,2023-03-23 10:23:06,174,7,0.0,2.59
+143,164926,Motorhomes,25,simon40,simon@campervancentre.com,0238 0225577,2021-02-19 18:40:48,936,25,0.0,2.47
+144,167819,Motorhomes,26,goodmans,ricky.gibbs@goodmansmotorhomes.com,01992713398,2023-04-14 05:40:07,152,26,0.0,2.69
+145,172558,Touring Caravans,14,andybrunton,andybrunton@hotmail.com,07957163309,2023-09-10 21:07:08,3,14,0.0,3.17
+146,174259,Accessories,3,probbo56,probbo56@ntlworld.com,07775800718,2023-03-24 18:32:57,173,3,0.0,2.54
+147,175452,Static Caravans,17,Wemyssbay,drummondmarshell@parkdean.com,01475 522589,2018-09-21 12:41:35,1818,17,0.0,2.45
+148,176186,Accessories,4,garrad106,garrad106@btconnect.com,07973255792,2023-08-27 13:01:40,17,4,0.0,3.03
+149,177149,Touring Caravans,5,asgroundwork,asgroundwork@mail.com,07714710528,2023-09-01 20:03:54,12,5,8.99,4.34
+150,177467,Lodge,3,Berthlwyd,info@Berthlwydpark.co.uk,01492 592270,2021-03-30 19:47:15,897,11,0.0,2.44
+151,177467,Static Caravans,8,Berthlwyd,info@Berthlwydpark.co.uk,01492 592270,2021-03-30 19:47:15,897,11,0.0,2.44
+152,177846,Lodge,3,MHHP001,info@merleyhouse.co.uk,+447798834266,2023-08-07 12:04:13,37,3,0.0,2.91
+153,178703,Campervans,16,BTACar,btacarsales@hotmail.com,01329 834131,2023-09-12 11:42:02,1,64,0.0,3.22
+154,178703,Motorhomes,47,BTACar,btacarsales@hotmail.com,01329 834131,2023-09-12 11:42:02,1,64,0.0,3.22
+155,179000,Static Caravans,10,NairnLochloyHoliday,iancooper@parkdeanholidays.com,0844 3353673,2018-09-20 03:40:04,1819,10,0.0,2.43
+156,179153,Static Caravans,45,Lyonshp,benwilliams@lyonsholidayparks.co.uk,01745 342265,2023-02-16 12:40:07,209,49,0.0,2.58
+157,179153,Touring Caravans,4,Lyonshp,benwilliams@lyonsholidayparks.co.uk,01745 342265,2023-02-16 12:40:07,209,49,0.0,2.58
+158,179544,Motorhomes,501,westcountryhomes,sales@westcountrymotorhomes.co.uk,01278761200,2023-07-29 15:17:23,46,501,0.0,3.01
+159,180175,Static Caravans,13,Sheerness1,rob.elliott@sheernesshols.com,01795 582899,2016-10-01 11:50:09,2538,13,0.0,2.44
+160,180389,Static Caravans,49,goldenpalm1,simonreeson@hotmail.co.uk,07539 493773,2021-03-29 19:51:21,898,49,0.0,2.49
+161,182248,Accessories,3,paulbrunsch2,paulbrunsch@gmail.com,01823664132,2023-07-26 11:00:13,49,3,0.0,2.85
+162,183958,Touring Caravans,4,Exetercaravans,ben@exetercaravancentre.co.uk,01404 822116,2023-02-16 22:40:09,209,4,0.0,2.49
+163,184298,For Hire,4,info230,info@kernow-kampers.com,01726 884689,2016-12-08 15:00:25,2470,4,0.0,2.39
+164,186029,Accessories,3,erichutchison,erichutchison@sky.com,01772749638,2023-08-14 11:15:16,30,3,0.0,2.93
+165,186709,Motorhomes,82,Redlioncaravans,lee@rlcaravans.com,01704 889973,2023-07-10 16:30:31,65,276,0.0,2.93
+166,186709,Touring Caravans,194,Redlioncaravans,lee@rlcaravans.com,01704 889973,2023-07-10 16:30:31,65,276,0.0,2.93
+167,186975,Lodge,9,UKholidayhomes,sales@ukholidayhomesltd.com,07706 287837,2018-01-21 16:27:17,2061,13,0.0,2.44
+168,186975,Static Caravans,4,UKholidayhomes,sales@ukholidayhomesltd.com,07706 287837,2018-01-21 16:27:17,2061,13,0.0,2.44
+169,188626,Campervans,51,Bigwavecampers,sales@bigwavecampers.co.uk,01288 358075,2018-09-06 15:51:19,1833,51,0.0,2.48
+170,188695,Static Caravans,16,LeisureUsed,info@skegnesscaravansales.com,01754 875050,2018-01-29 16:42:33,2053,16,0.0,2.45
+171,188710,Static Caravans,35,LeisureNew,info@tlcteam.co.uk,01754 875050,2018-01-23 16:42:22,2059,35,0.0,2.47
+172,189364,Touring Caravans,7,wigancaravans,info@wigancaravans.co.uk,01695 622584,2022-10-29 22:40:20,319,7,0.0,2.46
+173,189448,Static Caravans,7,Seaviewinternational,Jeremy.reuben@swholidayparks.co.uk,01726843425,2018-09-04 23:40:37,1834,9,0.0,2.43
+174,189449,Lodge,5,Coastview123,dan.clarke@swholidayparks.co.uk,01626818350,2019-08-25 10:42:36,1480,5,0.0,2.41
+175,189919,Motorhomes,194,Alankerr123,sales@alankerrltd.co.uk,01803 522098,2023-07-30 10:40:32,45,195,0.0,3.01
+176,189931,Touring Caravans,3,cleonard08,cleonard08@outlook.com,07811061421,2023-04-19 01:41:04,147,3,0.0,2.61
+177,191869,Touring Caravans,15,Surreyhants123,terry2187@msn.com,07980 467 987,2021-02-19 18:46:30,936,15,0.0,2.45
+178,191931,Campervans,14,lee.jinks,keith.ballard@allelectric.co.uk,01384 882821,2023-09-13 16:40:28,0,75,0.0,3.24
+179,191931,Motorhomes,61,lee.jinks,keith.ballard@allelectric.co.uk,01384 882821,2023-09-13 16:40:28,0,75,0.0,3.24
+180,192025,Motorhomes,4,smouldiow,smouldiow@yahoo.co.uk,07787341466 ,2023-07-07 02:40:27,68,4,0.0,2.81
+181,192533,Motorhomes,12,motorhomesales,motorhomes@talktalk.net,01527 852429,2023-07-22 14:14:05,53,13,103.96,4.66
+182,192820,Motorhomes,381,4front,sales@4usedcarsales.co.uk,01444 461667,2023-09-13 16:40:25,0,390,0.0,3.26
+183,192820,Towing Vehicles,9,4front,sales@4usedcarsales.co.uk,01444 461667,2023-09-13 16:40:25,0,390,0.0,3.26
+184,193238,Accessories,6,jeamatb,jeamatb@gmail.com,01159810150,2023-07-06 14:26:39,69,6,0.0,2.83
+185,193278,Motorhomes,9,charlotte5,charlotte@pioneercaravans.co.uk,01733 222244,2020-09-14 18:52:07,1094,18,0.0,2.46
+186,193278,Touring Caravans,9,charlotte5,charlotte@pioneercaravans.co.uk,01733 222244,2020-09-14 18:52:07,1094,18,0.0,2.46
+187,193309,Accessories,7,theridleyhabitat,theridleyhabitat@gmail.com,07771817636,2023-05-10 14:01:30,126,7,0.0,2.71
+188,194016,Motorhomes,32,EdwardsMotorhomes,andy.dimmock@edwardsmotors.co.uk,01905 828820,2023-05-21 14:40:22,115,32,0.0,2.78
+189,196689,Motorhomes,21,tottingtonmotor,sales@tottingtonmotorcompany.co.uk,01204 882211,2023-07-12 10:50:12,63,137,0.0,2.93
+190,196689,Towing Vehicles,116,tottingtonmotor,sales@tottingtonmotorcompany.co.uk,01204 882211,2023-07-12 10:50:12,63,137,0.0,2.93
+191,196794,Lodge,13,bordercaravans,info@bordercaravans.co.uk,01835 830271,2023-03-17 16:47:51,180,20,0.0,2.61
+192,196794,Static Caravans,7,bordercaravans,info@bordercaravans.co.uk,01835 830271,2023-03-17 16:47:51,180,20,0.0,2.61
+193,196816,Touring Caravans,3,dave750norton,dave750norton@aol.com,01983638956,2023-08-20 14:40:08,24,3,0.0,2.96
+194,198064,Touring Caravans,88,Gilescaravans,matgiles@yahoo.co.uk,01483 548 320,2023-07-18 11:41:40,57,89,0.0,2.95
+195,198899,Accessories,6,branston62,branston62@live.co.uk,07926192735,2023-03-27 13:44:23,170,6,0.0,2.6
+196,199310,Motorhomes,94,lancastermc,sales@lancastermc.co.uk,01524 822911,2023-07-29 15:15:55,46,312,0.0,3.01
+197,199310,Touring Caravans,218,lancastermc,sales@lancastermc.co.uk,01524 822911,2023-07-29 15:15:55,46,312,0.0,3.01
+198,199607,Campervans,7,ALV001,sales@adventurelv.com,01539 624141,2023-09-13 19:40:46,0,164,0.0,3.25
+199,199607,Motorhomes,13,ALV001,sales@adventurelv.com,01539 624141,2023-09-13 19:40:46,0,164,0.0,3.25
+200,199607,Touring Caravans,144,ALV001,sales@adventurelv.com,01539 624141,2023-09-13 19:40:46,0,164,0.0,3.25
+201,199950,Static Caravans,6,garyruffell2,garyruffell@ladrambay.co.uk,01395 568398,2018-07-06 00:41:38,1895,6,0.0,2.42
+202,200098,Accessories,5,kmbarties,kmbarties@btopenworld.com,07484318401,2023-07-23 19:34:06,52,5,0.0,2.88
+203,200248,Campervans,39,Tom19,Tom@cravantech.co.uk,01580 860851,2018-03-21 12:44:56,2002,39,0.0,2.47
+204,200423,Campervans,8,GoodmansMotorhomes,, 01992 713398,2023-09-12 16:40:06,1,53,0.0,3.22
+205,200423,Motorhomes,45,GoodmansMotorhomes,, 01992 713398,2023-09-12 16:40:06,1,53,0.0,3.22
+206,200715,Motorhomes,157,HighbrigeDevon,caravansdevon@highbridgecaravans.co.uk,01626 832792,2023-07-29 15:01:07,46,373,0.0,3.01
+207,200715,Touring Caravans,216,HighbrigeDevon,caravansdevon@highbridgecaravans.co.uk,01626 832792,2023-07-29 15:01:07,46,373,0.0,3.01
+208,201518,Campervans,3,LKWCampers,,01865 584068,2022-11-04 17:40:05,313,7,0.0,2.46
+209,201518,Motorhomes,4,LKWCampers,,01865 584068,2022-11-04 17:40:05,313,7,0.0,2.46
+210,201787,Touring Caravans,18,selectcaravans,david@selectcaravans.co.uk,01623 656090,2023-03-21 11:40:08,176,18,0.0,2.61
+211,201789,Motorhomes,9,thecaravangroup,hello@thecaravangroup.co.uk,07824 995393,2021-03-29 19:43:52,898,9,0.0,2.44
+212,202263,Motorhomes,5,CC001,sales@cccampers.co.uk,0333 456 3345,2020-09-29 05:40:06,1079,6,0.0,2.42
+213,202576,Campervans,6,ronnie855,ronnie@camperandmotorhomecentre.co.uk,01403 892694,2023-08-22 16:40:07,22,13,0.0,3.05
+214,202576,Motorhomes,7,ronnie855,ronnie@camperandmotorhomecentre.co.uk,01403 892694,2023-08-22 16:40:07,22,13,0.0,3.05
+215,202578,Lodge,6,bob30,tennea@privatesalecaravans.co.uk,07410 488499,2023-08-28 16:28:38,16,48,0.0,3.13
+216,202578,Static Caravans,42,bob30,tennea@privatesalecaravans.co.uk,07410 488499,2023-08-28 16:28:38,16,48,0.0,3.13
+217,203185,Accessories,3,christobeach,christobeach@gmail.com,07967304831,2023-03-09 12:20:59,188,4,0.0,2.53
+218,203265,Static Caravans,16,Joe.Epton2,Joe.Epton@pureleisuregroup.com,01524 917313,2023-07-13 07:40:10,62,17,0.0,2.89
+219,204029,Accessories,3,grahamb7,grahamb7@hotmail.co.uk,01872863760,2023-06-13 15:47:21,92,3,0.0,2.72
+220,204757,Accessories,13,hazelprutherford,hazelprutherford@aol.com,01563830572,2023-07-03 20:29:12,72,13,0.0,2.85
+221,205894,Static Caravans,9,crossburncaravans2,info@crossburncaravans.co.uk,01721 720 501,2023-08-25 10:31:53,19,9,0.0,3.06
+222,205918,Campervans,56,motorhomes3,enquiries@motorhomes.co.uk,01785 878787,2023-04-16 14:44:27,150,207,0.0,2.74
+223,205918,Motorhomes,151,motorhomes3,enquiries@motorhomes.co.uk,01785 878787,2023-04-16 14:44:27,150,207,0.0,2.74
+224,205997,Campervans,15,carmarthen,carmarthen@3asleisure.com,01267 234459,2023-02-28 20:43:05,197,312,0.0,2.62
+225,205997,Motorhomes,119,carmarthen,carmarthen@3asleisure.com,01267 234459,2023-02-28 20:43:05,197,312,0.0,2.62
+226,205997,Touring Caravans,178,carmarthen,carmarthen@3asleisure.com,01267 234459,2023-02-28 20:43:05,197,312,0.0,2.62
+227,206784,Campervans,10,m-d-g4,sales@m-d-g.co.uk,01202 855531,2023-07-11 09:00:45,64,89,0.0,2.93
+228,206784,Motorhomes,79,m-d-g4,sales@m-d-g.co.uk,01202 855531,2023-07-11 09:00:45,64,89,0.0,2.93
+229,207542,Touring Caravans,14,bicester,sales@bicestercaravanandleisure.co.uk,01869 242343,2019-10-24 15:53:25,1420,14,0.0,2.45
+230,207644,Motorhomes,33,webbauto,sales@webbauto.co.uk,01983 528346,2023-08-26 02:40:08,18,33,0.0,3.1
+231,207962,For Hire,5,GreenWoodParks,email@greenwoodparks.net,01243 514433,2023-09-13 08:55:13,0,54,0.0,3.23
+232,207962,Static Caravans,49,GreenWoodParks,email@greenwoodparks.net,01243 514433,2023-09-13 08:55:13,0,54,0.0,3.23
+233,208122,Accessories,14,t_quick,t_quick@sky.com,01473717636,2023-08-20 13:56:42,24,14,0.0,3.04
+234,208170,Static Caravans,11,lovat,sales@goldenleas.co.uk,01795 342464,2019-08-07 19:11:20,1498,11,0.0,2.44
+235,208194,Static Caravans,14,GD-Hardy,info@directcaravansales.co.uk,01754 874071,2019-10-01 11:40:28,1443,17,0.0,2.45
+236,208194,Touring Caravans,3,GD-Hardy,info@directcaravansales.co.uk,01754 874071,2019-10-01 11:40:28,1443,17,0.0,2.45
+237,208583,Accessories,30,billnjill,billsunhinged59@outlook.com,07943311731,2023-09-03 13:48:14,10,30,0.0,3.15
+238,209189,Lodge,105,liberty,sales@libertyleisuregroup.com,01423534624,2023-07-29 15:11:20,46,130,0.0,3.0
+239,209189,Static Caravans,25,liberty,sales@libertyleisuregroup.com,01423534624,2023-07-29 15:11:20,46,130,0.0,3.0
+240,209821,Touring Caravans,4,samibopeep,samibopeep@gmail.com,07719923004,2022-10-12 23:40:59,335,4,0.0,2.42
+241,209838,Campervans,4,marquissurrey,sales-mj@marquisleisure.co.uk,0800 026 7777,2023-09-13 17:40:43,0,36,0.0,3.22
+242,209838,Motorhomes,9,marquissurrey,sales-mj@marquisleisure.co.uk,0800 026 7777,2023-09-13 17:40:43,0,36,0.0,3.22
+243,209838,Touring Caravans,23,marquissurrey,sales-mj@marquisleisure.co.uk,0800 026 7777,2023-09-13 17:40:43,0,36,0.0,3.22
+244,210038,Motorhomes,12,vehicles4,sales@vehicles4leisure.co.uk,01244 851464,2023-03-14 11:40:13,183,13,0.0,2.59
+245,212061,Accessories,3,richarddalley,richarddalley@outlook.com,07443959242,2023-08-17 16:29:25,27,3,0.0,2.94
+246,212121,Static Caravans,5,chriswatts,chriswatts@lyonsholidayparks.co.uk,07717363182,2023-01-20 08:32:50,236,5,0.0,2.46
+247,212361,Motorhomes,5,billsunhinged59,billsunhinged59@outlook.com,07943311731,2022-09-20 23:40:08,357,6,0.0,2.45
+248,212470,Accessories,4,alanfranks52,alanfranks52@outlook.com,01304823616,2023-08-10 11:46:11,34,4,0.0,2.95
+249,212922,Accessories,3,jen-luv,jen-luv@hotmail.com,7565445980,2023-07-10 07:01:58,65,3,0.0,2.79
+250,213029,Accessories,10,chrysfreestone,chrysfreestone@gmail.com,01754612073,2023-01-28 16:26:00,228,10,0.0,2.5
+251,213094,Touring Caravans,3,Shauncoxy84,Shauncoxy84@gmail.com,07392398248,2023-09-05 02:40:07,8,3,0.0,3.06
+252,213220,Accessories,4,roonstersathome,roonstersathome@yahoo.com,07957952744,2023-08-27 08:49:55,17,4,0.0,3.03
+253,214096,Motorhomes,29,YorkshireRose,sales@yorkshirerosemotorhomes.co.uk,01302 439360,2023-07-13 14:58:38,62,30,0.0,2.91
+254,214521,Static Caravans,21,Longbeach76,sales@longbeach-leisure.co.uk,01964532506,2023-09-11 09:18:39,2,21,0.0,3.19
+255,214744,Static Caravans,49,Ctilbury,ctilbury@parkholidays.com,07759831840,2023-09-09 11:12:28,4,49,0.0,3.2
+256,215158,Accessories,3,davepritchard275,davepritchard275@gmail.com,01322551774,2023-09-07 07:32:59,6,3,0.0,3.07
+257,215883,Accessories,3,khedley30,khedley30@gmail.com,07483447431,2023-08-27 18:00:10,17,4,0.0,3.03
+258,215910,Touring Caravans,8,webster.andrew63,webster.andrew63@googlemail.com,07876452148,2023-09-06 16:55:50,7,9,0.0,3.13
+259,217121,Touring Caravans,3,jpilk1092,jpilk1092@gmail.com,07771636365,2023-07-28 11:05:42,47,4,0.0,2.89
+260,218066,Accessories,4,ansleyhiggins,ansleyhiggins@gmx.com,07532074249,2023-08-19 11:40:02,25,4,0.0,2.98
+261,219410,Motorhomes,3,r1bob76,r1bob76@gmail.com,07712272243,2023-08-08 14:40:16,36,4,0.0,2.94
+262,219711,Accessories,4,ianweddell,ianweddell@btinternet.com,07765621263,2023-08-22 13:01:36,22,4,0.0,3.0
+263,220410,Static Caravans,23,TerriL,jdixson@parkholidays.com,07739832047,2023-09-08 13:23:06,5,23,0.0,3.17
+264,221139,Static Caravans,6,mpark,steve@mowbreckpark.co.uk,01772682494,2023-08-28 11:38:01,16,6,0.0,3.06
+265,221661,Static Caravans,5,speedy.caravansales,speedy.caravansales@gmail.com,07946760672,2023-02-11 16:41:07,214,5,0.0,2.49
+266,222264,Campervans,5,mark.taylor43,mark.taylor43@googlemail.com,07882993696,2023-09-13 16:59:30,0,14,0.0,3.19
+267,222264,Motorhomes,7,mark.taylor43,mark.taylor43@googlemail.com,07882993696,2023-09-13 16:59:30,0,14,0.0,3.19
+268,222513,Touring Caravans,8,bevfost,bevfost@hotmail.com,01757707260,2023-09-10 14:58:22,3,8,0.0,3.15
+269,223189,Accessories,8,grahamharveyuk,grahamharveyuk@outlook.com,01684575750,2023-09-11 10:46:40,2,8,0.0,3.16
+270,223655,Accessories,5,maryhcassell,Bobacassell@gmail.com,07966513494,2023-08-19 13:48:24,25,5,0.0,3.0
+271,223707,Motorhomes,3,cotswoldedge,mail@cotswoldedge.co.uk,01386 882866,2021-05-25 10:44:06,841,18,0.0,2.46
+272,223707,Touring Caravans,15,cotswoldedge,mail@cotswoldedge.co.uk,01386 882866,2021-05-25 10:44:06,841,18,0.0,2.46
+273,224478,Static Caravans,4,accounts13,accounts@eastviewcaravans.co.uk,07960152939,2023-07-15 17:28:54,60,5,0.0,2.85
+274,224777,Motorhomes,3,darren1962uk,darren1962uk@yahoo.co.uk,07707244036,2023-05-24 13:40:11,112,3,0.0,2.68
+275,225610,Touring Caravans,16,goeauto2,sales@goeauto.co.uk,03333441170,2022-05-30 23:06:08,471,16,0.0,2.47
+276,226797,Accessories,14,mjandk365,mjandk365@gmail.com,01509842829,2023-05-05 19:27:54,131,14,0.0,2.72
+277,228797,Accessories,4,robwadley,Robwadley@gmail.com,07432 118894,2023-03-12 16:51:58,185,4,6.99,3.68
+278,229109,Static Caravans,3,lanyonholidaypark,jenny@lanyonholidaypark.co.uk,01209313474,2023-09-09 15:00:10,4,3,7.99,4.27
+279,231097,Static Caravans,9,thorpefarm,sales@thorpefarm.co.uk,07909 910255,2023-05-29 16:14:00,107,9,0.0,2.76
+280,231175,Lodge,4,zoe-wilcock,zoe.wilcock@pureleisuregroup.com,07738130835,2023-07-31 07:40:08,44,23,0.0,2.98
+281,231175,Static Caravans,19,zoe-wilcock,zoe.wilcock@pureleisuregroup.com,07738130835,2023-07-31 07:40:08,44,23,0.0,2.98
+282,232000,Accessories,4,sally77taylor,Sally77taylor@gmail.com,07742396754,2023-04-24 08:36:46,142,4,0.0,2.64
+283,232039,Touring Caravans,3,one2onevehiclesales,one2onevehiclesalesltd@gmail.com,07481765186,2023-09-12 14:37:42,1,3,0.0,3.1
+284,232243,Touring Caravans,3,tkefford05,Tkefford05@gmail.com,07738845750,2023-05-19 07:16:24,117,3,35.98,4.39
+285,232459,Touring Caravans,3,johnbeautifulgarden,johnbeautifulgardens@outlook.com,,2023-08-20 14:40:10,24,3,0.0,2.96
+286,232858,Accessories,3,gerrycarol,gerrycarol@hotmail.co.uk,07763107129,2023-08-06 10:31:40,38,3,0.0,2.9
+287,233242,Accessories,6,blackkite889,blackkite889@gmail.com,01772671877,2023-08-28 16:53:58,16,6,0.0,3.06
+288,233986,Touring Caravans,3,allan-taylor,meadowgatestables@yahoo.co.uk,07949135331,2023-07-26 18:12:47,49,3,0.0,2.85
+289,234553,Static Caravans,9,lcasey,lcasey@parkholidays.com,07759832564,2022-08-24 11:38:14,385,11,24.99,4.09
+290,234925,Lodge,3,taylor-jatv,Taylor.jatv@gmail.com,+447919576417,2023-01-20 10:08:09,236,11,0.0,2.49
+291,234925,Static Caravans,8,taylor-jatv,Taylor.jatv@gmail.com,+447919576417,2023-01-20 10:08:09,236,11,0.0,2.49
+292,235096,Towing Vehicles,75,CompactWales22,sales@compactcarswales.co.uk,01656 767606,2022-06-20 16:13:35,450,75,49.98,4.25
+293,236215,Static Caravans,7,alanamarshall2,alanamarshall@lyonsholidayparks.co.uk,07402265805,2023-01-25 12:30:54,231,7,0.0,2.49
+294,237133,Touring Caravans,7,taylor-mills,taylor.mills@pureleisuregroup.com,,2022-06-29 22:40:39,441,7,0.0,2.44
+295,237844,Lodge,7,Queen2022,info@firtreescaravanpark.com,01244398365,2023-07-18 11:41:11,57,85,0.0,2.95
+296,237844,Static Caravans,77,Queen2022,info@firtreescaravanpark.com,01244398365,2023-07-18 11:41:11,57,85,0.0,2.95
+297,237898,Touring Caravans,3,sherwoodcaravanstor,info@sherwoodcaravanstorage.co.uk,07946527670,2022-10-16 11:58:49,332,3,24.99,4.03
+298,239206,Static Caravans,5,statictrader,jason@statictrader.com,01424 774 759,2022-08-15 12:27:57,394,5,0.0,2.43
+299,239407,Accessories,6,rsbr230952,rsbr23095@gmail.com,07791109646,2023-07-13 11:06:28,62,6,0.0,2.85
+300,239827,Static Caravans,21,bfreund,bfreund@parkholidays.com,07759831825,2023-01-14 10:19:36,242,22,0.0,2.51
+301,240208,Touring Caravans,4,dmadgwick,dmadgwick@parkholidays.com,01803881740,2022-11-21 11:40:26,296,4,0.0,2.43
+302,240787,Accessories,3,horsfield515,horsfield515@btinternet.com,07714417755,2023-08-23 11:59:27,21,3,0.0,2.98
+303,241165,Campervans,6,darren16,darren@dragonville.co.uk,01507499112,2022-09-28 20:26:58,350,7,0.0,2.45
+304,241528,Static Caravans,10,Park Holidays,tdavies@parkholidays.com,07759832095,2022-09-24 13:17:51,354,10,0.0,2.46
+305,241666,Campervans,54,completecamperssout,info@completecamperssouthwest.co.uk,01392 241504,2023-09-12 16:40:58,1,103,0.0,3.23
+306,241666,Motorhomes,32,completecamperssout,info@completecamperssouthwest.co.uk,01392 241504,2023-09-12 16:40:58,1,103,0.0,3.23
+307,241666,Touring Caravans,17,completecamperssout,info@completecamperssouthwest.co.uk,01392 241504,2023-09-12 16:40:58,1,103,0.0,3.23
+308,242509,Static Caravans,19,rachel11,rachel@coasttocoastcaravans.com,01646 699000,2023-09-05 17:00:14,8,21,53.97,4.89
+309,242605,Static Caravans,22,AwayResortsBarmouth,awayresortsparklink@robot.zapier.com,01341 247 350,2023-09-01 14:40:57,12,22,0.0,3.13
+310,242608,Static Caravans,19,AwayResortsAppletree,awayresortsparklink@robot.zapier.com,01205 631410,2022-10-20 17:40:55,328,19,0.0,2.49
+311,242776,Static Caravans,27,AwayResortsClee,awayresortsparklink@robot.zapier.com,01472 810020,2023-09-06 14:40:16,7,27,0.0,3.17
+312,242818,Static Caravans,30,AwayResortsGolden,awayresortsparklink@robot.zapier.com,0333 920 4747,2023-09-06 14:40:12,7,32,0.0,3.17
+313,242827,Static Caravans,27,AwayResortsMersea,awayresortsparklink@robot.zapier.com,01206 383252,2023-09-06 14:40:08,7,28,0.0,3.17
+314,242830,Static Caravans,46,AwayResortsMill,awayresortsparklink@robot.zapier.com,02392 311070,2023-08-16 14:40:23,28,52,0.0,3.06
+315,242830,Touring Caravans,6,AwayResortsMill,awayresortsparklink@robot.zapier.com,02392 311070,2023-08-16 14:40:23,28,52,0.0,3.06
+316,242833,Static Caravans,18,AwayResortsSandy,awayresortsparklink@robot.zapier.com,0333 242 9852,2023-08-05 14:40:08,39,23,0.0,2.99
+317,242833,Touring Caravans,5,AwayResortsSandy,awayresortsparklink@robot.zapier.com,0333 242 9852,2023-08-05 14:40:08,39,23,0.0,2.99
+318,242854,Static Caravans,36,AwayResortsWhite,awayresortsparklink@robot.zapier.com,01983 874 365,2023-09-08 14:40:20,5,39,0.0,3.19
+319,242854,Touring Caravans,3,AwayResortsWhite,awayresortsparklink@robot.zapier.com,01983 874 365,2023-09-08 14:40:20,5,39,0.0,3.19
+320,242857,Static Caravans,34,AwayResortsIves,awayresortsparklink@robot.zapier.com,01736 697400,2023-08-19 14:40:16,25,37,0.0,3.06
+321,242857,Touring Caravans,3,AwayResortsIves,awayresortsparklink@robot.zapier.com,01736 697400,2023-08-19 14:40:16,25,37,0.0,3.06
+322,243007,Motorhomes,3,mikeward7653,mikeward7653@gmail.com,,2023-06-18 01:40:09,87,3,0.0,2.73
+323,243337,Static Caravans,4,rob31,rob@morphet.com,07899792939,2023-08-24 18:42:56,20,4,0.0,3.02
+324,243598,Motorhomes,15,tom24,tom@cll2.co.uk,07568 511812,2023-09-02 11:40:32,11,89,0.0,3.17
+325,243598,Touring Caravans,63,tom24,tom@cll2.co.uk,07568 511812,2023-09-02 11:40:32,11,89,0.0,3.17
+326,243598,Towing Vehicles,9,tom24,tom@cll2.co.uk,07568 511812,2023-09-02 11:40:32,11,89,0.0,3.17
+327,243658,Static Caravans,51,SealBayResort,mark.parks@cove.co.uk,01243 607776,2023-08-29 16:08:12,15,51,493.81,4.88
+328,243751,Static Caravans,45,jglover,jglover@parkholidays.com,07849828409,2023-08-28 11:45:07,16,45,0.0,3.12
+329,244898,Static Caravans,13,LJamieson,LJamieson@parkholidays.com,07759833398,2023-03-08 09:54:45,189,13,0.0,2.57
+330,244985,Static Caravans,5,penny-ogden,penny.ogden@awayresorts.co.uk,01929448901,2023-01-23 13:58:59,233,5,0.0,2.47
+331,245012,Static Caravans,3,oliver-birkbeck,oliver.birkbeck@pureleisuregroup.com,07960 006057,2023-09-13 14:16:53,0,5,0.0,3.15
+332,245198,Accessories,5,fiona-griffiths2,mjgriffirths@me.com,07545972254,2023-01-26 11:35:05,230,5,0.0,2.47
+333,245222,Static Caravans,20,rchantler123,rchantler@parkholidays.com,01795 511522,2023-02-08 13:24:05,217,20,0.0,2.54
+334,245432,Accessories,7,gordonandlynn1,gordonandlynn1@btinternet.com,01672514386,2023-09-01 19:39:03,12,7,0.0,3.09
+335,245612,Accessories,3,jonescar,jonescar@hotmail.co.uk,01342843387,2023-06-11 10:38:59,94,3,0.0,2.72
+336,245705,Static Caravans,7,sbstatics,sbstatics@hotmail.com,07895510893,2023-05-01 20:00:08,135,7,0.0,2.69
+337,245738,Static Caravans,11,wyallop,jdunphy@parkholidays.com,07759832309,2023-03-16 11:15:07,181,11,0.0,2.59
+338,245895,Accessories,3,bennettgrange,bennettgrange@gmail.com,07930286038,2023-02-04 17:03:55,221,3,0.0,2.44
+339,246145,Static Caravans,4,parkligia,lalbeanu@parkholidays.com,01803 881740,2023-02-24 15:33:35,201,5,0.0,2.51
+340,246196,Lodge,3,julie21,julie@chapel-fields.co.uk,01754879600,2023-09-11 12:35:06,2,16,0.0,3.18
+341,246196,Static Caravans,13,julie21,julie@chapel-fields.co.uk,01754879600,2023-09-11 12:35:06,2,16,0.0,3.18
+342,246211,Accessories,3,lorrainemorgan53,lorrainemorgan53@gmail.com,07917363847,2023-09-05 11:39:42,8,3,0.0,3.06
+343,246238,Accessories,3,marcol07,lucascwm22@gmail.com,02920860987,2023-04-06 13:51:50,160,3,0.0,2.57
+344,246244,Static Caravans,5,jknowles,lwilson@parkholidays.com,07415239231,2023-04-02 16:16:29,164,5,8.99,3.86
+345,246527,Static Caravans,6,bridlington123,david.grant@purelsiuregroup.com,01262 411660,2023-03-22 07:40:12,175,6,0.0,2.58
+346,246530,Static Caravans,12,CockerhamSands,martyn.turner@pureleisuregroup.com,01524 751387,2023-03-23 07:40:08,174,12,0.0,2.61
+347,246533,Lodge,25,Lowther,ray.metcalfe@pureleisuregroup.com,01524 781918,2023-06-23 07:40:20,82,43,0.0,2.86
+348,246533,Static Caravans,18,Lowther,ray.metcalfe@pureleisuregroup.com,01524 781918,2023-06-23 07:40:20,82,43,0.0,2.86
+349,246788,Static Caravans,3,robinhoodcaravanpar2,info@robinhoodcaravanpark.co.uk,01653628391,2023-09-03 10:09:25,10,3,7.99,4.23
+350,246818,Static Caravans,47,abayliss,abayliss@parkholidays.com,07756877131,2023-09-04 09:13:05,9,48,0.0,3.17
+351,246821,Static Caravans,32,callumwolton1,callumwolton1@hotmail.co.uk,07719059723,2023-09-13 10:34:59,0,32,0.0,3.22
+352,246857,Touring Caravans,6,donnaegan20,donnaegan20@gmail.com,07437680118,2023-02-26 12:52:07,199,6,0.0,2.52
+353,247208,Accessories,3,j-simpson45,j.simpson45@btinternet.com,07851089582,2023-04-10 12:40:28,156,3,0.0,2.58
+354,247493,Accessories,3,microbubbles,microbubbles@aol.com,07971983280,2023-03-06 14:46:02,191,3,0.0,2.49
+355,247550,Accessories,5,nic-day,nic.day@hotmail.com,07968139509,2023-08-06 13:02:26,38,5,0.0,2.94
+356,247556,Touring Caravans,3,dan16,dan@caravandan.co.uk,01274892797,2023-05-10 19:55:12,126,4,0.0,2.68
+357,247595,Accessories,7,james-fairns,james.fairns@outlook.com,07868067891,2023-08-24 12:17:11,20,7,0.0,3.05
+358,247637,Touring Caravans,3,kenttowingsolutions,info@kenttowingsolutions.co.uk,01892 890005,2023-03-24 10:59:54,173,3,0.0,2.54
+359,247679,Static Caravans,13,jadeglover14,jadeglover14@gmail.com,07849828409,2023-03-24 13:30:38,173,13,0.0,2.61
+360,247868,Accessories,3,eastwoodsbysea,roberta3264@icloud.com,07986703677,2023-06-11 21:02:03,94,3,0.0,2.72
+361,247871,Accessories,3,colin-s-venables,colin.s.venables@gmail.com,07837849185,2023-04-11 17:31:29,155,3,0.0,2.59
+362,248048,Static Caravans,20,tlacy,tlacy@parkholidays.com,07759833207,2023-09-01 13:31:10,12,20,0.0,3.13
+363,248096,Static Caravans,6,mrs-jops89,mrs.jops89@hotmail.com,07973258531,2023-03-18 10:10:33,179,6,0.0,2.57
+364,248427,Motorhomes,3,foskerkay,foskerkay@gmail.com,07581445335,2023-08-24 01:30:14,20,3,25.99,4.63
+365,248517,Accessories,3,jackiewise52,jackiewise52@gmail.com,07807887406,2023-03-25 18:03:41,172,3,4.89,3.65
+366,248694,Static Caravans,3,liam-field-millard,liam.field-millard@awayresorts.co.uk,07535412333,2023-03-30 09:41:31,167,4,0.0,2.58
+367,248703,Static Caravans,22,salisburycaravans01,salisburycaravans01@gmail.com,01529 306098,2023-03-31 12:15:02,166,22,0.0,2.65
+368,248730,Campervans,5,Krisd,kris@campervanco.com,01324 489211,2023-06-30 11:20:44,75,5,0.0,2.81
+369,248808,Touring Caravans,3,marion2,marion@therurallife.co.uk,07831 286578,2023-08-30 16:36:30,14,3,0.0,3.02
+370,248859,Static Caravans,18,ibilkhu,ibilkhu@parkholidays.com,07546691622,2023-05-04 10:06:25,132,18,0.0,2.73
+371,249042,Static Caravans,3,duffyt-c-m,hv@duffyt-c-m.co.uk,07979363852,2023-09-05 08:26:45,8,3,0.0,3.06
+372,249072,Static Caravans,4,mbuckleyjones1972,mbuckleyjones1972@gmail.com,07719617599,2023-04-14 10:30:19,152,4,0.0,2.62
+373,249123,Accessories,3,james-algar1955,james.algar1955@gmail.com,07933758510,2023-04-03 15:07:08,163,3,0.0,2.56
+374,249510,Accessories,3,jeff-deleeuwe,jeff.deleeuwe@gmail.com,07952238276,2023-08-25 09:39:12,19,3,0.0,2.99
+375,249651,Accessories,11,12paulgill,12paulgill@gmail.com,07513134267,2023-09-12 14:55:23,1,11,0.0,3.17
+376,249672,Accessories,3,therondels,therondels@outlook.com,07772795930,2023-04-12 08:56:53,154,3,0.0,2.59
+377,249687,Touring Caravans,3,thecaravanservicece,thecaravanservicecentre@btconnect.com,01902 798027,2023-05-24 15:11:57,112,3,53.97,4.43
+378,249750,Campervans,4,carl16,james@sterling-automotive.co.uk,01254 947 630,2023-04-14 12:41:03,152,4,0.0,2.62
+379,249801,Accessories,3,triciabrine,triciabrine@hotmail.com,01392 876349,2023-04-14 10:27:15,152,3,0.0,2.59
+380,249984,Static Caravans,73,jamesmuir84,james2@staticworld.co.uk,07918851317,2023-09-11 10:15:27,2,73,0.0,3.22
+381,250077,Accessories,5,clskid02,clskid01@talktalk.net,07514497542,2023-08-27 23:45:57,16,5,0.0,3.05
+382,250149,Lodge,3,eastcoast-leisure,sam.raynor@eastcoastleisure.co.uk,07534 354856,2023-09-05 20:23:29,8,24,0.0,3.16
+383,250149,Static Caravans,21,eastcoast-leisure,sam.raynor@eastcoastleisure.co.uk,07534 354856,2023-09-05 20:23:29,8,24,0.0,3.16
+384,250173,Accessories,3,sharon-stubbs21,sharon.stubbs21@googlemail.com,07961561208,2023-04-22 09:15:34,144,3,0.0,2.61
+385,250179,Motorhomes,3,beckers57,beckers57@me.com,,2023-04-21 01:40:10,145,3,0.0,2.61
+386,250197,Touring Caravans,3,presh3ncookie3,presh3ncookie3@icloud.com,07789472054,2023-09-06 17:02:31,7,3,0.0,3.06
+387,250362,Accessories,3,mattorsue,mattorsue@btinternet.com,0780142377,2023-04-24 15:29:57,142,3,13.98,4.0
+388,250368,Accessories,4,jenv8837,jenv8837@gmail.com,07483223105,2023-08-27 08:41:37,17,4,0.0,3.03
+389,250464,Touring Caravans,5,frazer-towna5,frazer.towna5@gmail.com,07929659355,2023-07-04 02:40:12,71,5,0.0,2.82
+390,250563,Motorhomes,3,jobby8,jobby8@hotmail.co.uk,01983756797,2023-05-03 01:40:11,133,3,0.0,2.64
+391,250685,Accessories,3,alan-pugsley,alan.pugsley@pug14.myzen.co.uk,01638664157,2023-05-22 18:55:06,114,3,0.0,2.68
+392,250742,Accessories,3,tdm1963,tdm1963@hotmail.co.uk,07854315800,2023-05-01 11:23:52,135,3,0.0,2.63
+393,251207,Static Caravans,13,olivia-lumb,olivia.lumb@harrisonleisureuk.com,07833118987,2023-05-15 13:43:48,121,13,0.0,2.74
+394,251234,For Hire,3328,goboody,,,2023-09-07 10:40:10,6,3328,0.0,3.22
+395,251861,Accessories,6,frank-rostron,frank_rostron@hotmail.com,07443464768,2023-09-01 11:43:23,12,6,11.88,4.43
+396,252023,Static Caravans,3,mary-watkins12,mary.watkins12@hotmail.co.uk,07985564762,2023-07-31 21:45:03,44,3,40.97,4.61
+397,252116,Campervans,8,deeaksia3482,deeaksia3482@gmail.com,07413025161,2023-09-11 14:06:15,2,12,0.0,3.17
+398,252116,Motorhomes,3,deeaksia3482,deeaksia3482@gmail.com,07413025161,2023-09-11 14:06:15,2,12,0.0,3.17
+399,252209,Touring Caravans,6,timclaker28993,timclaker28993@mail.com,+447700185164,2023-06-13 12:08:54,92,6,0.0,2.78
+400,252647,Static Caravans,4,gretchen-wardman,gretchen.wardman@maguires.org.uk,01845 595993,2023-06-06 11:37:47,99,4,0.0,2.74
+401,253052,Accessories,6,silentnight,silentnight@live.co.uk,07792490905,2023-06-19 13:56:41,86,6,0.0,2.79
+402,253589,Static Caravans,4,dlindsay,dlindsay@parkleisure.co.uk,07561702518,2023-06-24 14:54:52,81,4,0.0,2.78
+403,253592,Static Caravans,6,littledinham,littledinham@hotmail.com,07557803092,2023-09-07 16:44:15,6,8,0.0,3.13
+404,253784,Static Caravans,3,graemepitcher,graemepitcher@lyonsholidayparks.co.uk,07354793179,2023-08-20 17:24:53,24,3,0.0,2.96
+405,255023,Accessories,3,collinse2,collinse2@sky.com,07969692609,2023-07-19 14:40:12,56,3,0.0,2.82
+406,255167,Accessories,5,cooperandrew930,andrewcooper@btinternet.com,07712765519,2023-07-22 12:47:18,53,5,0.0,2.88
+407,255638,Motorhomes,19,RVSupercentreLondon,MotorHomeSales@rvsupercentre.co.uk,01525 878009,2023-09-13 16:40:24,0,20,0.0,3.2
+408,255641,Motorhomes,18,RVSupercentreEdin,info@rvsupercentre.co.uk,0131 560 1122,2023-09-13 17:40:07,0,18,0.0,3.2
+409,255824,Accessories,3,a-knight1303,a.knight1303@gmail.com,07804695416,2023-08-03 12:51:09,41,3,0.0,2.89
+410,255866,Static Caravans,7,sdrscotland,sdrscotland@gmail.com,01674668087,2023-09-13 20:25:32,0,9,0.0,3.18
+411,255881,Static Caravans,27,thomasokelly,thomasokelly@lyonsholidayparks.co.uk,07962595546,2023-09-13 11:29:52,0,28,0.0,3.21
+412,256352,Accessories,12,caroberts2,caroberts2@virginmedia.com,07470025605,2023-08-23 15:49:36,21,12,0.0,3.06
+413,256379,Accessories,3,donbarnes2extra,donbarnes2extra@gmail.com,07721989396,2023-08-13 19:54:30,31,3,0.0,2.93
+414,256702,Accessories,3,dove-karen,dove_karen@sky.com,+447944595423,2023-08-19 14:46:39,25,3,0.0,2.95
+415,256783,Accessories,3,hazelsb,hazelsb@icloud.com,07551391153,2023-09-01 14:31:42,12,5,0.0,3.08
+416,256954,Static Caravans,3,kerryann-curran,kerryann.curran@awayresorts.co.uk,07498574649,2023-08-22 22:23:47,22,3,0.0,2.98
+417,256975,Accessories,3,sands38,sands38@btinternet.com,07900862793,2023-08-23 14:42:51,21,3,0.0,2.98
+418,257372,Motorhomes,9,cotswoldedge2,sales@cotswoldedge.co.uk,01386  882866,2023-09-12 16:43:14,1,66,0.0,3.22
+419,257372,Touring Caravans,55,cotswoldedge2,sales@cotswoldedge.co.uk,01386  882866,2023-09-12 16:43:14,1,66,0.0,3.22
+420,257378,Accessories,6,nelsonvr17,nelsonvr17@outlook.com,01477500425,2023-08-31 18:31:18,13,6,0.0,3.08
+421,257627,Campervans,36,trystan,trystan@3asleisure.com,01267 234459,2023-09-13 22:40:57,0,255,0.0,3.25
+422,257627,Motorhomes,90,trystan,trystan@3asleisure.com,01267 234459,2023-09-13 22:40:57,0,255,0.0,3.25
+423,257627,Touring Caravans,129,trystan,trystan@3asleisure.com,01267 234459,2023-09-13 22:40:57,0,255,0.0,3.25
+424,257642,Motorhomes,8,gailey,gailey@thecaravanplace.com,01902 700111,2023-09-08 16:42:22,5,25,0.0,3.18
+425,257642,Touring Caravans,16,gailey,gailey@thecaravanplace.com,01902 700111,2023-09-08 16:42:22,5,25,0.0,3.18
